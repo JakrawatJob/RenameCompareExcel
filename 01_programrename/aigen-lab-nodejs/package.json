@@ -1,0 +1,33 @@
+{
+  "name": "aigen-lab-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/b6db07d1a5/aigen-lab-nodejs.git",
+  "author": "ananass <sitthichai.wa@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write '**/*.{js,json}'",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.3",
+    "@babel/node": "^7.23.9",
+    "@babel/preset-env": "^7.24.3",
+    "@babel/register": "^7.23.7",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
