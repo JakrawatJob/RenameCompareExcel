@@ -1,0 +1,46 @@
+[
+  {
+    "INVOICE_NO": "1127947089",
+    "PO_NO": "1255676001",
+    "ITEM_NO": "100898011",
+    "QTY": 29500,
+    "UNIT_PRICE": 0.295,
+    "AMOUNT": 8702.5,
+    "filename": "6.AVNET K.K..pdf",
+    "location": "STA",
+    "% Confidence": 0.9967447916666666
+  },
+  {
+    "INVOICE_NO": "1127947089",
+    "PO_NO": "1256897001",
+    "ITEM_NO": "100898011",
+    "QTY": 29500,
+    "UNIT_PRICE": 0.295,
+    "AMOUNT": 8702.5,
+    "filename": "6.AVNET K.K..pdf",
+    "location": "STA",
+    "% Confidence": 0.9933268229166666
+  },
+  {
+    "INVOICE_NO": "1127947089",
+    "PO_NO": "1257506002",
+    "ITEM_NO": "100898011",
+    "QTY": 29500,
+    "UNIT_PRICE": 0.295,
+    "AMOUNT": 8702.5,
+    "filename": "6.AVNET K.K..pdf",
+    "location": "STA",
+    "% Confidence": 0.9950358072916666
+  },
+  {
+    "INVOICE_NO": "1127947089",
+    "PO_NO": "1257506001",
+    "ITEM_NO": "100898011",
+    "QTY": 59000,
+    "UNIT_PRICE": 0.295,
+    "AMOUNT": 17405,
+    "filename": "6.AVNET K.K..pdf",
+    "location": "STA",
+    "% Confidence": 0.9973958333333334
+  }
+]
