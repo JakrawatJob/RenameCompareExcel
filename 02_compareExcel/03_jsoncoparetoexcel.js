@@ -115,32 +115,31 @@ rl.question("Please enter the folder name: ", (folderName) => {
     for (let i = 0; i < arrfiles.length; i += 1) {
       //console.log(arrfiles[i], arrfiles2[i]);
       const filename = getFilenameWithoutExtension(arrfiles[i]);
-      let fileTruth = getFilenameWithoutExtension(arrfiles2[i - notfound]);
-
-      if (!fileTruth) {
-        fileTruth = getFilenameWithoutExtension(arrfiles2[i - notfound - 1]);
-        notfound += 1;
-      }
-
-      //console.log(arrfiles[i], arrfiles2[i - notfound]);
-      //const extractedData = filename.split("_")[0];
       let isPresent = false;
-      if (filename) {
-        const regex = /_STA|_STBIWH|_STBOWH|_STC/;
-        const newFilename = filename.replace(regex, "");
-        console.log(
-          newFilename.replace("_OCR", ""),
-          fileTruth.replace("_Truth", "")
-        );
+      let fileTruth = "";
+      let mapTruth = arrfiles2[i];
+      for (let j = 0; j < arrfiles2.length; j += 1) {
+        fileTruth = getFilenameWithoutExtension(arrfiles2[j]);
+        if (filename) {
+          const regex = /_STA|_STBIWH|_STBOWH|_STC/;
+          const newFilename = filename.replace(regex, "");
+          console.log(
+            newFilename.replace("_OCR", ""),
+            fileTruth.replace("_Truth", "")
+          );
 
-        if (
-          newFilename.replace("_OCR", "") != fileTruth.replace("_Truth", "")
-        ) {
-          isPresent = false;
-        } else {
-          isPresent = true;
+          if (
+            newFilename.replace("_OCR", "") != fileTruth.replace("_Truth", "")
+          ) {
+            isPresent = false;
+          } else {
+            mapTruth = arrfiles2[j];
+            isPresent = true;
+            j = arrfiles2.length;
+          }
         }
       }
+      console.log("isPresent", isPresent);
       const data = readJSONFile(arrfiles[i]);
       //console.log("data here", data);
       if (data.length == 0) {
@@ -148,20 +147,14 @@ rl.question("Please enter the folder name: ", (folderName) => {
         continue;
       }
       const modifiedData = modifyData(filename, data, i);
-      const filename2 = getFilenameWithoutExtension(arrfiles2[i - notfound]);
-      const data_truth = arrfiles2[i - notfound]
-        ? readJSONFile(arrfiles2[i - notfound])
-        : null;
-      if (!isPresent) {
-        notfound += 1;
-      }
+      const filename2 = fileTruth;
+      let data_truth = readJSONFile(mapTruth);
 
       //console.log(data_truth);
-      if (!data_truth) {
-        process.exit(1);
-      }
+
       let modifiedData2;
       if (!isPresent) {
+        data_truth = data;
         modifiedData2 = data_truth.map((item, index) => ({
           invoice_no_truth: "Can't found Truth",
           item_no_truth: null,
