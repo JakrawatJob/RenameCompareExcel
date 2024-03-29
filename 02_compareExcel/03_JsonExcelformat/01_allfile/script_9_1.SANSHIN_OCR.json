@@ -1,0 +1,52 @@
+[
+  {
+    "INVOICE_NO": "10034505",
+    "PO_NO": "123278003",
+    "ITEM_NO": "101352312",
+    "QTY": 12000,
+    "UNIT_PRICE": 6.4106,
+    "AMOUNT": 76927.2,
+    "% Confidence": 0.9947102864583334,
+    "filename": "1.SANSHIN"
+  },
+  {
+    "INVOICE_NO": "10034505",
+    "PO_NO": "1253278004",
+    "ITEM_NO": "101352312",
+    "QTY": 18000,
+    "UNIT_PRICE": 6.4106,
+    "AMOUNT": 115390.8,
+    "% Confidence": 0.9947916666666666,
+    "filename": "1.SANSHIN"
+  },
+  {
+    "INVOICE_NO": "10034505",
+    "PO_NO": "1253278001",
+    "ITEM_NO": "101352212",
+    "QTY": 16000,
+    "UNIT_PRICE": 2.8838,
+    "AMOUNT": 46140.8,
+    "% Confidence": 0.9952799479166666,
+    "filename": "1.SANSHIN"
+  },
+  {
+    "INVOICE_NO": "10034505",
+    "PO_NO": "1253278002",
+    "ITEM_NO": "101352212",
+    "QTY": 16000,
+    "UNIT_PRICE": 2.8838,
+    "AMOUNT": 46140.8,
+    "% Confidence": 0.99609375,
+    "filename": "1.SANSHIN"
+  },
+  {
+    "INVOICE_NO": "10034505",
+    "PO_NO": "1255640001",
+    "ITEM_NO": "100997811",
+    "QTY": 45000,
+    "UNIT_PRICE": 2.085,
+    "AMOUNT": 93825,
+    "% Confidence": 0.9955240885416666,
+    "filename": "1.SANSHIN"
+  }
+]

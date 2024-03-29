@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "IV2308144",
+    "PO_NO": "1253591001",
+    "ITEM_NO": "154311301",
+    "QTY": 1000,
+    "UNIT_PRICE": 5.0509,
+    "AMOUNT": 5050.9,
+    "% Confidence": 0.9933268229166666,
+    "filename": "1.BESCO"
+  },
+  {
+    "INVOICE_NO": "IV2308144",
+    "PO_NO": "1253591002",
+    "ITEM_NO": "456324601",
+    "QTY": 3200,
+    "UNIT_PRICE": 5.1022,
+    "AMOUNT": 16327.04,
+    "% Confidence": 0.9945882161458334,
+    "filename": "1.BESCO"
+  }
+]

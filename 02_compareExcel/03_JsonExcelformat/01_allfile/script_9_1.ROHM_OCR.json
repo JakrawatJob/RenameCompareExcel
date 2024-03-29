@@ -1,0 +1,23 @@
+[
+  {
+    "QTY": 195000,
+    "UNIT_PRICE": 0.0186,
+    "AMOUNT": 3627,
+    "% Confidence": 0.4990234375,
+    "filename": "1.ROHM"
+  },
+  {
+    "QTY": 150000,
+    "UNIT_PRICE": 0.0169,
+    "AMOUNT": 2535,
+    "% Confidence": 0.499267578125,
+    "filename": "1.ROHM"
+  },
+  {
+    "QTY": 15000,
+    "UNIT_PRICE": 0.0169,
+    "AMOUNT": 253.5,
+    "% Confidence": 0.4991861979166667,
+    "filename": "1.ROHM"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "INVOICE_NO": "408444",
+    "PO_NO": "(9100815008)",
+    "ITEM_NO": "505337201",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.13,
+    "AMOUNT": 130,
+    "% Confidence": 0.991455078125,
+    "filename": "1.SANKO SANGYO( MALAYSIA )"
+  },
+  {
+    "INVOICE_NO": "408444",
+    "PO_NO": "(9100756004)",
+    "ITEM_NO": "505337501",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.13,
+    "AMOUNT": 130,
+    "% Confidence": 0.9951985677083334,
+    "filename": "1.SANKO SANGYO( MALAYSIA )"
+  },
+  {
+    "INVOICE_NO": "408444",
+    "PO_NO": "(9100829001)",
+    "ITEM_NO": "505336301",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.1,
+    "AMOUNT": 100,
+    "% Confidence": 0.9972330729166666,
+    "filename": "1.SANKO SANGYO( MALAYSIA )"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "INVOICE_NO": "T2300142",
+    "PO_NO": "1249455001",
+    "ITEM_NO": "418599561",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.66,
+    "AMOUNT": 6600,
+    "% Confidence": 0.995361328125,
+    "filename": "1.GREAT SHANK"
+  },
+  {
+    "INVOICE_NO": "T2300142",
+    "PO_NO": "1251098003",
+    "ITEM_NO": "418599571",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.73,
+    "AMOUNT": 7300,
+    "% Confidence": 0.9925944010416666,
+    "filename": "1.GREAT SHANK"
+  },
+  {
+    "INVOICE_NO": "T2300142",
+    "PO_NO": "1251098005",
+    "ITEM_NO": "418599861",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.71,
+    "AMOUNT": 7100,
+    "% Confidence": 0.9908854166666666,
+    "filename": "1.GREAT SHANK"
+  },
+  {
+    "INVOICE_NO": "T2300142",
+    "PO_NO": "1251098007",
+    "ITEM_NO": "418599871",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.8,
+    "AMOUNT": 8000,
+    "% Confidence": 0.9954427083333334,
+    "filename": "1.GREAT SHANK"
+  },
+  {
+    "INVOICE_NO": "T2300142",
+    "PO_NO": "1249455005",
+    "ITEM_NO": "418599951",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.62,
+    "AMOUNT": 12400,
+    "% Confidence": 0.9947102864583334,
+    "filename": "1.GREAT SHANK"
+  },
+  {
+    "INVOICE_NO": "T2300142",
+    "PO_NO": "1251098012",
+    "ITEM_NO": "418599961",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.63,
+    "AMOUNT": 6300,
+    "% Confidence": 0.991943359375,
+    "filename": "1.GREAT SHANK"
+  }
+]

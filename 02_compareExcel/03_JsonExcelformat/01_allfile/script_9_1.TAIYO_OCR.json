@@ -1,0 +1,72 @@
+[
+  {
+    "INVOICE_NO": "2308-105",
+    "PO_NO": "253763002",
+    "ITEM_NO": "456825801",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.1741,
+    "AMOUNT": 2348.2,
+    "% Confidence": 0.9962022569444445,
+    "filename": "1.TAIYO"
+  },
+  {
+    "INVOICE_NO": "2308-105",
+    "PO_NO": "252598003",
+    "ITEM_NO": "457424201",
+    "QTY": 400,
+    "UNIT_PRICE": 29.9109,
+    "AMOUNT": 11964.36,
+    "% Confidence": 0.9967719184027778,
+    "filename": "1.TAIYO"
+  },
+  {
+    "INVOICE_NO": "2308-105",
+    "PO_NO": "252290004",
+    "ITEM_NO": "X25905872",
+    "QTY": 1400,
+    "UNIT_PRICE": 19,
+    "AMOUNT": 27151.6,
+    "% Confidence": 0.9313259548611111,
+    "filename": "1.TAIYO"
+  },
+  {
+    "INVOICE_NO": "2308-105",
+    "PO_NO": "252201008",
+    "ITEM_NO": "X25906362",
+    "QTY": 1506,
+    "UNIT_PRICE": 5.7312,
+    "AMOUNT": 8631.19,
+    "% Confidence": 0.9957139756944445,
+    "filename": "1.TAIYO"
+  },
+  {
+    "INVOICE_NO": "2308-105",
+    "PO_NO": "252201009",
+    "ITEM_NO": "X25906362",
+    "QTY": 5494,
+    "UNIT_PRICE": 5.7312,
+    "AMOUNT": 31487.21,
+    "% Confidence": 0.9956325954861112,
+    "filename": "1.TAIYO"
+  },
+  {
+    "INVOICE_NO": "2308-105",
+    "PO_NO": "252201005",
+    "ITEM_NO": "502789501",
+    "QTY": 100,
+    "UNIT_PRICE": 1.1039,
+    "AMOUNT": 110.39,
+    "% Confidence": 0.9960394965277778,
+    "filename": "1.TAIYO"
+  },
+  {
+    "INVOICE_NO": "2308-105",
+    "PO_NO": "253380006",
+    "ITEM_NO": "502789501",
+    "QTY": 4900,
+    "UNIT_PRICE": 1.1039,
+    "AMOUNT": 5409.11,
+    "% Confidence": 0.9952256944444445,
+    "filename": "1.TAIYO"
+  }
+]

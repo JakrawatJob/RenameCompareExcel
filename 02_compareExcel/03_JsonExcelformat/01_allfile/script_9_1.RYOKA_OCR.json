@@ -1,0 +1,49 @@
+[
+  {
+    "INVOICE_NO": "ST-23040",
+    "PO_NO": "1246557003",
+    "QTY": 3840,
+    "UNIT_PRICE": 0.9728,
+    "AMOUNT": 3735.55,
+    "% Confidence": 0.83203125,
+    "filename": "1.RYOKA"
+  },
+  {
+    "INVOICE_NO": "ST-23040",
+    "PO_NO": "1246557004",
+    "ITEM_NO": "101121131",
+    "QTY": 7680,
+    "UNIT_PRICE": 0.9728,
+    "AMOUNT": 7471.1,
+    "% Confidence": 0.997314453125,
+    "filename": "1.RYOKA"
+  },
+  {
+    "INVOICE_NO": "ST-23040",
+    "PO_NO": "247086003",
+    "QTY": 19200,
+    "UNIT_PRICE": 0.9728,
+    "AMOUNT": 18677.76,
+    "% Confidence": 0.8319498697916666,
+    "filename": "1.RYOKA"
+  },
+  {
+    "INVOICE_NO": "ST-23040",
+    "PO_NO": "1247086004",
+    "QTY": 7680,
+    "UNIT_PRICE": 0.9728,
+    "AMOUNT": 7471.1,
+    "% Confidence": 0.8316243489583334,
+    "filename": "1.RYOKA"
+  },
+  {
+    "INVOICE_NO": "ST-23040",
+    "PO_NO": "1246557006",
+    "ITEM_NO": "101121331",
+    "QTY": 4800,
+    "UNIT_PRICE": 0.7597,
+    "AMOUNT": 3646.56,
+    "% Confidence": 0.9982096354166666,
+    "filename": "1.RYOKA"
+  }
+]

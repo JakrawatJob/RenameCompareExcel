@@ -1,0 +1,52 @@
+[
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": "1257261004",
+    "ITEM_NO": "47464610",
+    "QTY": 1500,
+    "UNIT_PRICE": 10.34,
+    "AMOUNT": 510,
+    "% Confidence": 0.9297526041666666,
+    "filename": "1.KANSAI"
+  },
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": "257261003",
+    "ITEM_NO": "073472857301",
+    "QTY": 3500,
+    "UNIT_PRICE": 0.521,
+    "AMOUNT": 1823.5,
+    "% Confidence": 0.99560546875,
+    "filename": "1.KANSAI"
+  },
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": "1257261017",
+    "ITEM_NO": "504258301",
+    "QTY": 2000,
+    "UNIT_PRICE": 2.66,
+    "AMOUNT": 5320,
+    "% Confidence": 0.9960123697916666,
+    "filename": "1.KANSAI"
+  },
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": "1257201016",
+    "ITEM_NO": "503095801",
+    "QTY": 5000,
+    "UNIT_PRICE": 2.27,
+    "AMOUNT": 11350,
+    "% Confidence": 0.9966634114583334,
+    "filename": "1.KANSAI"
+  },
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": "1257200022",
+    "ITEM_NO": "504393401",
+    "QTY": 2700,
+    "UNIT_PRICE": 4.461,
+    "AMOUNT": 12044.7,
+    "% Confidence": 0.9966634114583334,
+    "filename": "1.KANSAI"
+  }
+]

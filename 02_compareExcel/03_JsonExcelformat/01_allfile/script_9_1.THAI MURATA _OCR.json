@@ -1,0 +1,31 @@
+[
+  {
+    "INVOICE_NO": "2324056794",
+    "PO_NO": "1253582106",
+    "ITEM_NO": "148245411",
+    "QTY": 7,
+    "UNIT_PRICE": 1.87526,
+    "% Confidence": 0.8301595052083334,
+    "filename": "1.THAI MURATA "
+  },
+  {
+    "INVOICE_NO": "2324056794",
+    "PO_NO": "1253582106",
+    "ITEM_NO": "148245411",
+    "QTY": 81000,
+    "UNIT_PRICE": 1.87526,
+    "AMOUNT": 162528.78,
+    "% Confidence": 0.93251953125,
+    "filename": "1.THAI MURATA "
+  },
+  {
+    "INVOICE_NO": "2324056794",
+    "PO_NO": "1254169073",
+    "ITEM_NO": "148245411",
+    "QTY": 63000,
+    "UNIT_PRICE": 1.87526,
+    "AMOUNT": 126411.28,
+    "% Confidence": 0.9319498697916666,
+    "filename": "1.THAI MURATA "
+  }
+]

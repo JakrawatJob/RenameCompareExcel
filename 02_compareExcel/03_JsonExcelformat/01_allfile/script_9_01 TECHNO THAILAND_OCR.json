@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "90068144",
+    "PO_NO": "1242337004",
+    "ITEM_NO": "504664601",
+    "QTY": 30000,
+    "UNIT_PRICE": 15.811,
+    "AMOUNT": 474330,
+    "% Confidence": 0.9984537760416666,
+    "filename": "01 TECHNO THAILAND"
+  },
+  {
+    "INVOICE_NO": "90068144",
+    "PO_NO": "1242833002",
+    "ITEM_NO": "504664601",
+    "QTY": 10000,
+    "UNIT_PRICE": 15.811,
+    "AMOUNT": 158110,
+    "% Confidence": 0.9988606770833334,
+    "filename": "01 TECHNO THAILAND"
+  }
+]

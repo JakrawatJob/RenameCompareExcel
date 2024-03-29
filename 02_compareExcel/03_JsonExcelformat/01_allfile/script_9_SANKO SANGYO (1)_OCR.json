@@ -1,0 +1,72 @@
+[
+  {
+    "INVOICE_NO": "ITCH-230015",
+    "PO_NO": "1254452001",
+    "ITEM_NO": "505158301",
+    "QTY": 1800,
+    "UNIT_PRICE": 215.83414,
+    "AMOUNT": 388501.45,
+    "% Confidence": 0.99755859375,
+    "filename": "SANKO SANGYO (1)"
+  },
+  {
+    "INVOICE_NO": "ITCH-230015",
+    "PO_NO": "1253299001",
+    "ITEM_NO": "505158311",
+    "QTY": 290,
+    "UNIT_PRICE": 213.70853,
+    "AMOUNT": 61975.47,
+    "% Confidence": 0.9981282552083334,
+    "filename": "SANKO SANGYO (1)"
+  },
+  {
+    "INVOICE_NO": "ITCH-230015",
+    "PO_NO": "1255664002",
+    "ITEM_NO": "505158311",
+    "QTY": 610,
+    "UNIT_PRICE": 213.70853,
+    "AMOUNT": 130362.2,
+    "% Confidence": 0.9982096354166666,
+    "filename": "SANKO SANGYO (1)"
+  },
+  {
+    "INVOICE_NO": "ITCH-230015",
+    "PO_NO": "1255041001",
+    "ITEM_NO": "505158331",
+    "QTY": 4140,
+    "UNIT_PRICE": 216.10406,
+    "AMOUNT": 894670.81,
+    "% Confidence": 0.9979654947916666,
+    "filename": "SANKO SANGYO (1)"
+  },
+  {
+    "INVOICE_NO": "ITCH-230015",
+    "PO_NO": "1255664003",
+    "ITEM_NO": "505158331",
+    "QTY": 540,
+    "UNIT_PRICE": 216.10406,
+    "AMOUNT": 116696.19,
+    "% Confidence": 0.9971516927083334,
+    "filename": "SANKO SANGYO (1)"
+  },
+  {
+    "INVOICE_NO": "ITCH-230015",
+    "PO_NO": "1254452002",
+    "ITEM_NO": "505158341",
+    "QTY": 2240,
+    "UNIT_PRICE": 213.97845,
+    "AMOUNT": 479311.73,
+    "% Confidence": 0.9977213541666666,
+    "filename": "SANKO SANGYO (1)"
+  },
+  {
+    "INVOICE_NO": "ITCH-230015",
+    "PO_NO": "1256253001",
+    "ITEM_NO": "505158341",
+    "QTY": 460,
+    "UNIT_PRICE": 213.97845,
+    "AMOUNT": 98430.09,
+    "% Confidence": 0.9971516927083334,
+    "filename": "SANKO SANGYO (1)"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "INVOICE_NO": "4123J00068",
+    "PO_NO": "1240000014",
+    "ITEM_NO": "111630001",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.037,
+    "AMOUNT": 7,
+    "% Confidence": 0.9196614583333332,
+    "filename": "1.TAIYO1 YUDEN"
+  },
+  {
+    "INVOICE_NO": "4123J00068",
+    "PO_NO": "134",
+    "ITEM_NO": "111673211",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.03001,
+    "AMOUNT": 306.1,
+    "% Confidence": 0.9240559895833332,
+    "filename": "1.TAIYO1 YUDEN"
+  },
+  {
+    "INVOICE_NO": "4123J00068",
+    "PO_NO": "007019",
+    "ITEM_NO": "111873211",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.03081,
+    "AMOUNT": 0.03081,
+    "% Confidence": 0.92177734375,
+    "filename": "1.TAIYO1 YUDEN"
+  },
+  {
+    "INVOICE_NO": "4123J00068",
+    "PO_NO": "1260143011",
+    "ITEM_NO": "111638001",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.0377,
+    "AMOUNT": 7,
+    "% Confidence": 0.922998046875,
+    "filename": "1.TAIYO1 YUDEN"
+  },
+  {
+    "INVOICE_NO": "4123J00068",
+    "PO_NO": "1252500016",
+    "ITEM_NO": "100360311",
+    "QTY": 200000,
+    "UNIT_PRICE": 0.003,
+    "AMOUNT": 18600,
+    "% Confidence": 0.924951171875,
+    "filename": "1.TAIYO1 YUDEN"
+  },
+  {
+    "INVOICE_NO": "4123J00068",
+    "PO_NO": "1252559017",
+    "ITEM_NO": "100360311",
+    "QTY": 30000,
+    "UNIT_PRICE": 0.003,
+    "AMOUNT": 2490,
+    "% Confidence": 0.919580078125,
+    "filename": "1.TAIYO1 YUDEN"
+  },
+  {
+    "INVOICE_NO": "4123J00068",
+    "ITEM_NO": "311",
+    "QTY": 30000,
+    "UNIT_PRICE": 0.003,
+    "AMOUNT": 2490,
+    "% Confidence": 0.7566569010416666,
+    "filename": "1.TAIYO1 YUDEN"
+  },
+  {
+    "INVOICE_NO": "4123J00068",
+    "PO_NO": "253162003",
+    "ITEM_NO": "00060311",
+    "QTY": 30,
+    "UNIT_PRICE": 0.063,
+    "AMOUNT": 3350,
+    "% Confidence": 0.9258463541666666,
+    "filename": "1.TAIYO1 YUDEN"
+  }
+]

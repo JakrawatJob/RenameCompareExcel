@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "13419-DS191028001",
+    "PO_NO": "1111104002",
+    "ITEM_NO": "13190223",
+    "QTY": 2860,
+    "UNIT_PRICE": 2.57,
+    "AMOUNT": 7350.2,
+    "% Confidence": 0.99609375,
+    "filename": "01 LUXSHARE_INV_13419-DS191028001_28Oct"
+  },
+  {
+    "INVOICE_NO": "13419-DS191028001",
+    "PO_NO": "1111206003",
+    "ITEM_NO": "13190223",
+    "QTY": 7940,
+    "UNIT_PRICE": 2.57,
+    "AMOUNT": 20405.8,
+    "% Confidence": 0.99658203125,
+    "filename": "01 LUXSHARE_INV_13419-DS191028001_28Oct"
+  }
+]

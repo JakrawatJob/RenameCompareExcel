@@ -1,0 +1,42 @@
+[
+  {
+    "INVOICE_NO": "ZK003266",
+    "PO_NO": "1249230027",
+    "ITEM_NO": "459205001",
+    "QTY": 320,
+    "UNIT_PRICE": 14.73,
+    "AMOUNT": 4713.6,
+    "% Confidence": 0.99658203125,
+    "filename": "1.SONY GLOBAL M&O CORP. KOHDA SITE (2)"
+  },
+  {
+    "INVOICE_NO": "ZK003266",
+    "PO_NO": "1248657021",
+    "ITEM_NO": "459204402",
+    "QTY": 120,
+    "UNIT_PRICE": 26.68,
+    "AMOUNT": 3201.6,
+    "% Confidence": 0.9970703125,
+    "filename": "1.SONY GLOBAL M&O CORP. KOHDA SITE (2)"
+  },
+  {
+    "INVOICE_NO": "ZK003266",
+    "PO_NO": "1248657022",
+    "ITEM_NO": "459204402",
+    "QTY": 120,
+    "UNIT_PRICE": 26.68,
+    "AMOUNT": 3201.6,
+    "% Confidence": 0.99658203125,
+    "filename": "1.SONY GLOBAL M&O CORP. KOHDA SITE (2)"
+  },
+  {
+    "INVOICE_NO": "ZK003266",
+    "PO_NO": "1248657023",
+    "ITEM_NO": "459204402",
+    "QTY": 120,
+    "UNIT_PRICE": 26.68,
+    "AMOUNT": 3201.6,
+    "% Confidence": 0.9962565104166666,
+    "filename": "1.SONY GLOBAL M&O CORP. KOHDA SITE (2)"
+  }
+]

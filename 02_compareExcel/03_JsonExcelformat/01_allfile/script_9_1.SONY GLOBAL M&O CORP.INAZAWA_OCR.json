@@ -1,0 +1,100 @@
+[
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "PO_NO": "1248852002",
+    "ITEM_NO": "2199962",
+    "QTY": 7000,
+    "UNIT_PRICE": 11.48,
+    "AMOUNT": 80360,
+    "% Confidence": 0.99755859375,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "PO_NO": "1248852003",
+    "ITEM_NO": "2228738",
+    "QTY": 8000,
+    "UNIT_PRICE": 2,
+    "AMOUNT": 16000,
+    "% Confidence": 0.9984537760416666,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "PO_NO": "1248978001",
+    "ITEM_NO": "5004970",
+    "QTY": 7000,
+    "UNIT_PRICE": 15.25,
+    "AMOUNT": 106750,
+    "% Confidence": 0.9971516927083334,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "PO_NO": "1248978002",
+    "ITEM_NO": "5005097",
+    "QTY": 6000,
+    "UNIT_PRICE": 36.43,
+    "AMOUNT": 218580,
+    "% Confidence": 0.9978841145833334,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "PO_NO": "1248289005",
+    "ITEM_NO": "5011707",
+    "QTY": 6000,
+    "UNIT_PRICE": 39.91,
+    "AMOUNT": 239460,
+    "% Confidence": 0.9976399739583334,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "PO_NO": "1248978003",
+    "ITEM_NO": "5021500",
+    "QTY": 8000,
+    "UNIT_PRICE": 2,
+    "AMOUNT": 16000,
+    "% Confidence": 0.9970703125,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "PO_NO": "1248852012",
+    "ITEM_NO": "5056963",
+    "QTY": 6000,
+    "UNIT_PRICE": 30.17,
+    "AMOUNT": 181020,
+    "% Confidence": 0.997802734375,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "PO_NO": "1248852013",
+    "ITEM_NO": "5056963",
+    "QTY": 6000,
+    "UNIT_PRICE": 30.17,
+    "AMOUNT": 181020,
+    "% Confidence": 0.9981282552083334,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "ITEM_NO": "2199962",
+    "QTY": 7000,
+    "UNIT_PRICE": 3.97,
+    "AMOUNT": 570,
+    "% Confidence": 0.76552734375,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  },
+  {
+    "INVOICE_NO": "STT-C-K20230703",
+    "ITEM_NO": "5011707",
+    "QTY": 6000,
+    "UNIT_PRICE": 3.64,
+    "AMOUNT": 570,
+    "% Confidence": 0.76552734375,
+    "filename": "1.SONY GLOBAL M&O CORP.INAZAWA"
+  }
+]

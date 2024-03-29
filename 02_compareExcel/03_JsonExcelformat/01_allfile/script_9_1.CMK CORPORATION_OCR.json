@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "D2023080117",
+    "PO_NO": "1247411003",
+    "ITEM_NO": "173656911",
+    "QTY": 1200,
+    "UNIT_PRICE": 111.76,
+    "AMOUNT": 134112,
+    "% Confidence": 0.9983723958333334,
+    "filename": "1.CMK CORPORATION"
+  },
+  {
+    "INVOICE_NO": "D2023080117",
+    "PO_NO": "1250464007",
+    "ITEM_NO": "173730611",
+    "QTY": 2000,
+    "UNIT_PRICE": 53.591,
+    "AMOUNT": 107182,
+    "% Confidence": 0.998046875,
+    "filename": "1.CMK CORPORATION"
+  }
+]

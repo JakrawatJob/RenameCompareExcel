@@ -1,0 +1,162 @@
+[
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001377",
+    "ITEM_NO": "501757701",
+    "QTY": "500",
+    "UNIT_PRICE": "663.1795",
+    "AMOUNT": "331589.7500"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001380",
+    "ITEM_NO": "501758301",
+    "QTY": "500",
+    "UNIT_PRICE": "319.4063",
+    "AMOUNT": "159703.1500"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001354",
+    "ITEM_NO": "501658701",
+    "QTY": "1000",
+    "UNIT_PRICE": "109.9110",
+    "AMOUNT": "109911.0000"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001350",
+    "ITEM_NO": "501658701",
+    "QTY": "1000",
+    "UNIT_PRICE": "109.9110",
+    "AMOUNT": "109911.0000"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001347",
+    "ITEM_NO": "501658701",
+    "QTY": "250",
+    "UNIT_PRICE": "109.9110",
+    "AMOUNT": "27477.7500"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001359",
+    "ITEM_NO": "502771801",
+    "QTY": "450",
+    "UNIT_PRICE": "45.1457",
+    "AMOUNT": "20315.5650"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001352",
+    "ITEM_NO": "502771401",
+    "QTY": "450",
+    "UNIT_PRICE": "49.7904",
+    "AMOUNT": "22405.6800"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001357",
+    "ITEM_NO": "447091102",
+    "QTY": "3500",
+    "UNIT_PRICE": "78.3201",
+    "AMOUNT": "274120.3500"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001339",
+    "ITEM_NO": "447091201",
+    "QTY": "2000",
+    "UNIT_PRICE": "96.4145",
+    "AMOUNT": "192829.0000"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001323",
+    "ITEM_NO": "458471701",
+    "QTY": "80",
+    "UNIT_PRICE": "570.6102",
+    "AMOUNT": "45648.8160"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001401",
+    "ITEM_NO": "459204501",
+    "QTY": "500",
+    "UNIT_PRICE": "164.5350",
+    "AMOUNT": "82267.5000"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001353",
+    "ITEM_NO": "459204501",
+    "QTY": "300",
+    "UNIT_PRICE": "164.5350",
+    "AMOUNT": "49360.5000"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001403",
+    "ITEM_NO": "459204602",
+    "QTY": "300",
+    "UNIT_PRICE": "261.3657",
+    "AMOUNT": "78409.7100"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001373",
+    "ITEM_NO": "459204602",
+    "QTY": "300",
+    "UNIT_PRICE": "261.3657",
+    "AMOUNT": "78409.7100"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001400",
+    "ITEM_NO": "459204702",
+    "QTY": "300",
+    "UNIT_PRICE": "148.8066",
+    "AMOUNT": "44641.9800"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001360",
+    "ITEM_NO": "459204702",
+    "QTY": "100",
+    "UNIT_PRICE": "148.8066",
+    "AMOUNT": "14880.6600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001389",
+    "ITEM_NO": "459205401",
+    "QTY": "300",
+    "UNIT_PRICE": "229.8659",
+    "AMOUNT": "68959.7700"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001351",
+    "ITEM_NO": "459205601",
+    "QTY": "300",
+    "UNIT_PRICE": "177.1422",
+    "AMOUNT": "53142.6600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001367",
+    "ITEM_NO": "459205601",
+    "QTY": "300",
+    "UNIT_PRICE": "177.1422",
+    "AMOUNT": "53142.6600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3P2S001386",
+    "ITEM_NO": "459205701",
+    "QTY": "300",
+    "UNIT_PRICE": "316.1378",
+    "AMOUNT": "94841.3400"
+  }
+]

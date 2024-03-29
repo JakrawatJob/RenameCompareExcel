@@ -1,0 +1,102 @@
+[
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "T256190001",
+    "ITEM_NO": "455916201",
+    "QTY": 1360,
+    "UNIT_PRICE": 4.7,
+    "AMOUNT": 6392,
+    "% Confidence": 0.9957682291666666,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1256819004",
+    "ITEM_NO": "469229501",
+    "QTY": 520,
+    "UNIT_PRICE": 2.2548,
+    "AMOUNT": 1172.5,
+    "% Confidence": 0.9956868489583334,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1255609007",
+    "ITEM_NO": "500294502",
+    "QTY": 2400,
+    "UNIT_PRICE": 5.4551,
+    "AMOUNT": 13092.24,
+    "% Confidence": 0.9957682291666666,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1257428008",
+    "ITEM_NO": "500294512",
+    "QTY": 1200,
+    "UNIT_PRICE": 1.1994,
+    "AMOUNT": 1439.28,
+    "% Confidence": 0.9959309895833334,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1254979010",
+    "ITEM_NO": "500389301",
+    "QTY": 520,
+    "UNIT_PRICE": 2.5623,
+    "AMOUNT": 1332.4,
+    "% Confidence": 0.99609375,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1254979011",
+    "ITEM_NO": "500389401",
+    "QTY": 520,
+    "UNIT_PRICE": 4.9977,
+    "AMOUNT": 2598.8,
+    "% Confidence": 0.9966634114583334,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1254979015",
+    "ITEM_NO": "500390201",
+    "QTY": 520,
+    "UNIT_PRICE": 1.9051,
+    "AMOUNT": 990.65,
+    "% Confidence": 0.9965006510416666,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1254979017",
+    "ITEM_NO": "500390301",
+    "QTY": 455,
+    "UNIT_PRICE": 4.1644,
+    "AMOUNT": 1894.8,
+    "% Confidence": 0.9965006510416666,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1254979018",
+    "ITEM_NO": "500395901",
+    "QTY": 520,
+    "UNIT_PRICE": 5.1448,
+    "AMOUNT": 2675.3,
+    "% Confidence": 0.99609375,
+    "filename": "Thai sanko1"
+  },
+  {
+    "INVOICE_NO": "DMS23/09-0245",
+    "PO_NO": "1253245011",
+    "ITEM_NO": "502007202",
+    "QTY": 520,
+    "UNIT_PRICE": 28.96,
+    "AMOUNT": 15059.2,
+    "% Confidence": 0.995849609375,
+    "filename": "Thai sanko1"
+  }
+]

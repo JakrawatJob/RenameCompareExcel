@@ -1,0 +1,31 @@
+[
+  {
+    "INVOICE_NO": "0008870",
+    "PO_NO": "1252495001",
+    "ITEM_NO": "169727621",
+    "QTY": 60,
+    "UNIT_PRICE": 44.23,
+    "AMOUNT": 2653.8,
+    "% Confidence": 0.9951171875,
+    "filename": "1.VRK"
+  },
+  {
+    "INVOICE_NO": "0008870",
+    "PO_NO": "1253105001",
+    "ITEM_NO": "169727621",
+    "QTY": 240,
+    "UNIT_PRICE": 44.23,
+    "AMOUNT": 10615.2,
+    "% Confidence": 0.994140625,
+    "filename": "1.VRK"
+  },
+  {
+    "INVOICE_NO": "0008870",
+    "ITEM_NO": "169727621",
+    "QTY": 240,
+    "UNIT_PRICE": 44.23,
+    "AMOUNT": 10615.2,
+    "% Confidence": 0.994384765625,
+    "filename": "1.VRK"
+  }
+]

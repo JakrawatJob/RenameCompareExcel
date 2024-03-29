@@ -1,0 +1,71 @@
+[
+  {
+    "INVOICE_NO": "2309001",
+    "PO_NO": "1254775005",
+    "ITEM_NO": "100249811",
+    "QTY": 1080,
+    "UNIT_PRICE": 98.4868,
+    "AMOUNT": 106365.74,
+    "% Confidence": 0.9961751302083334,
+    "filename": "1.HTK C&H (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "2309001",
+    "PO_NO": "1255974006",
+    "ITEM_NO": "100261211",
+    "QTY": 4800,
+    "UNIT_PRICE": 80.166,
+    "AMOUNT": 384796.8,
+    "% Confidence": 0.9962972005208334,
+    "filename": "1.HTK C&H (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "2309001",
+    "PO_NO": "1255974011",
+    "ITEM_NO": "100284412",
+    "QTY": 4000,
+    "UNIT_PRICE": 48.1806,
+    "AMOUNT": 192722.4,
+    "% Confidence": 0.9946695963541666,
+    "filename": "1.HTK C&H (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "2309001",
+    "PO_NO": "1255974016",
+    "ITEM_NO": "100284512",
+    "QTY": 3500,
+    "UNIT_PRICE": 49.2265,
+    "AMOUNT": 172292.75,
+    "% Confidence": 0.9960123697916666,
+    "filename": "1.HTK C&H (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "2309001",
+    "PO_NO": "1255974031",
+    "QTY": 3200,
+    "UNIT_PRICE": 57.3241,
+    "AMOUNT": 183437.12,
+    "% Confidence": 0.8294270833333334,
+    "filename": "1.HTK C&H (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "2309001",
+    "PO_NO": "1255974041",
+    "ITEM_NO": "101152811",
+    "QTY": 4200,
+    "UNIT_PRICE": 62.5538,
+    "AMOUNT": 262725.96,
+    "% Confidence": 0.9954020182291666,
+    "filename": "1.HTK C&H (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "2309001",
+    "PO_NO": "1255389067",
+    "ITEM_NO": "101644311",
+    "QTY": 2560,
+    "UNIT_PRICE": 97.9469,
+    "AMOUNT": 250744.06,
+    "% Confidence": 0.9883626302083334,
+    "filename": "1.HTK C&H (THAILAND)"
+  }
+]

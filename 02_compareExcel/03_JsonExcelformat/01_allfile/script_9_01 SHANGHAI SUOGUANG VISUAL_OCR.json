@@ -1,0 +1,100 @@
+[
+  {
+    "ITEM_NO": "5028116",
+    "QTY": 120,
+    "UNIT_PRICE": 86.43,
+    "AMOUNT": 10371.6,
+    "% Confidence": 0.664794921875,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1255088003",
+    "ITEM_NO": "5028116",
+    "QTY": 120,
+    "UNIT_PRICE": 86.43,
+    "AMOUNT": 10371.6,
+    "% Confidence": 0.830810546875,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1255086004",
+    "ITEM_NO": "5028116",
+    "QTY": 80,
+    "UNIT_PRICE": 86.43,
+    "AMOUNT": 6914.4,
+    "% Confidence": 0.8286946614583334,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1254483008",
+    "ITEM_NO": "5028118",
+    "QTY": 120,
+    "UNIT_PRICE": 59.2,
+    "AMOUNT": 7104,
+    "% Confidence": 0.8314615885416666,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1255088005",
+    "ITEM_NO": "5028118",
+    "QTY": 120,
+    "UNIT_PRICE": 59.2,
+    "AMOUNT": 7104,
+    "% Confidence": 0.8312581380208334,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1255088006",
+    "ITEM_NO": "5028118",
+    "QTY": 80,
+    "UNIT_PRICE": 59.2,
+    "AMOUNT": 4736,
+    "% Confidence": 0.8314615885416666,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1254483010",
+    "ITEM_NO": "5028122",
+    "QTY": 120,
+    "UNIT_PRICE": 6.78,
+    "AMOUNT": 813.6,
+    "% Confidence": 0.831298828125,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1255088007",
+    "ITEM_NO": "5028122",
+    "QTY": 120,
+    "UNIT_PRICE": 6.78,
+    "AMOUNT": 813.6,
+    "% Confidence": 0.8307291666666666,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1255088008",
+    "ITEM_NO": "5028122",
+    "QTY": 80,
+    "UNIT_PRICE": 6.78,
+    "AMOUNT": 542.4,
+    "% Confidence": 0.829833984375,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "1254483013",
+    "ITEM_NO": "5056841",
+    "QTY": 80,
+    "UNIT_PRICE": 270.39,
+    "AMOUNT": 27631.2,
+    "% Confidence": 0.7647135416666666,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  },
+  {
+    "PO_NO": "9100407001",
+    "ITEM_NO": "5056841",
+    "QTY": 240,
+    "UNIT_PRICE": 270.39,
+    "AMOUNT": 64893.6,
+    "% Confidence": 0.8301595052083334,
+    "filename": "01 SHANGHAI SUOGUANG VISUAL"
+  }
+]

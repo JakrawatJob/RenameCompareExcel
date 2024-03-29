@@ -1,0 +1,42 @@
+[
+  {
+    "INVOICE_NO": "AR23009445",
+    "PO_NO": "9086144256",
+    "ITEM_NO": "655163001",
+    "QTY": 360000,
+    "UNIT_PRICE": 0.0052,
+    "AMOUNT": 1872,
+    "% Confidence": 0.9974772135416666,
+    "filename": "1.Invoice_AR23009445"
+  },
+  {
+    "INVOICE_NO": "AR23009445",
+    "PO_NO": "9086180136",
+    "ITEM_NO": "655163101",
+    "QTY": 240000,
+    "UNIT_PRICE": 0.0052,
+    "AMOUNT": 1248,
+    "% Confidence": 0.9977213541666666,
+    "filename": "1.Invoice_AR23009445"
+  },
+  {
+    "INVOICE_NO": "AR23009445",
+    "PO_NO": "9086180388",
+    "ITEM_NO": "655163101",
+    "QTY": 208000,
+    "UNIT_PRICE": 0.0052,
+    "AMOUNT": 1081.6,
+    "% Confidence": 0.995361328125,
+    "filename": "1.Invoice_AR23009445"
+  },
+  {
+    "INVOICE_NO": "AR23009445",
+    "PO_NO": "9086180027",
+    "ITEM_NO": "655163101",
+    "QTY": 208000,
+    "UNIT_PRICE": 0.0052,
+    "AMOUNT": 1081.6,
+    "% Confidence": 0.998291015625,
+    "filename": "1.Invoice_AR23009445"
+  }
+]

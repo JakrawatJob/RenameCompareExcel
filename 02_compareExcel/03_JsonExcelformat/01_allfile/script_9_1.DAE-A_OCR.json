@@ -1,0 +1,102 @@
+[
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1246415001",
+    "ITEM_NO": "101149321",
+    "QTY": 800,
+    "UNIT_PRICE": 10.85,
+    "AMOUNT": 8680,
+    "% Confidence": 0.9923502604166666,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1251324001",
+    "ITEM_NO": "101149321",
+    "QTY": 200,
+    "UNIT_PRICE": 10.85,
+    "AMOUNT": 2170,
+    "% Confidence": 0.99267578125,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1251875001",
+    "ITEM_NO": "101149321",
+    "QTY": 200,
+    "UNIT_PRICE": 10.85,
+    "AMOUNT": 2170,
+    "% Confidence": 0.991943359375,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1253083005",
+    "ITEM_NO": "1478033181",
+    "QTY": 1400,
+    "UNIT_PRICE": 0.35,
+    "AMOUNT": 490,
+    "% Confidence": 0.9921875,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1253083006",
+    "ITEM_NO": "178033181",
+    "QTY": 2800,
+    "UNIT_PRICE": 0.35,
+    "AMOUNT": 980,
+    "% Confidence": 0.992431640625,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1251875021",
+    "ITEM_NO": "184692511",
+    "QTY": 60,
+    "UNIT_PRICE": 1.14,
+    "AMOUNT": 68.4,
+    "% Confidence": 0.9925130208333334,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1253083032",
+    "ITEM_NO": "184697813",
+    "QTY": 1690,
+    "UNIT_PRICE": 10.95,
+    "AMOUNT": 18505.5,
+    "% Confidence": 0.9921875,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1253083031",
+    "ITEM_NO": "184697813",
+    "QTY": 710,
+    "UNIT_PRICE": 10.95,
+    "AMOUNT": 7774.5,
+    "% Confidence": 0.9925130208333334,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1253083037",
+    "ITEM_NO": "184698113",
+    "QTY": 500,
+    "UNIT_PRICE": 18.15,
+    "AMOUNT": 9075,
+    "% Confidence": 0.9917805989583334,
+    "filename": "1.DAE-A"
+  },
+  {
+    "INVOICE_NO": "F12308-00089",
+    "PO_NO": "1253083036",
+    "ITEM_NO": "184698113",
+    "QTY": 300,
+    "UNIT_PRICE": 18.15,
+    "AMOUNT": 5445,
+    "% Confidence": 0.992431640625,
+    "filename": "1.DAE-A"
+  }
+]

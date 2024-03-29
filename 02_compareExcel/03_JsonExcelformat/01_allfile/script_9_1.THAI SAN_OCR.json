@@ -1,0 +1,92 @@
+[
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "1256136003",
+    "ITEM_NO": "427291311",
+    "QTY": 1200,
+    "UNIT_PRICE": 2.9405,
+    "AMOUNT": 3528.6,
+    "% Confidence": 0.9962972005208334,
+    "filename": "1.THAI SAN"
+  },
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "J256136006",
+    "ITEM_NO": "427291404",
+    "QTY": 400,
+    "UNIT_PRICE": 2.9992,
+    "AMOUNT": 1199.68,
+    "% Confidence": 0.9951171875,
+    "filename": "1.THAI SAN"
+  },
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "1256136009",
+    "ITEM_NO": "427291512",
+    "QTY": 1120,
+    "UNIT_PRICE": 1.6106,
+    "AMOUNT": 1803.87,
+    "% Confidence": 0.9974772135416666,
+    "filename": "1.THAI SAN"
+  },
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "1256136012",
+    "ITEM_NO": "427291631",
+    "QTY": 800,
+    "UNIT_PRICE": 2.3258,
+    "AMOUNT": 1860.64,
+    "% Confidence": 0.9952392578125,
+    "filename": "1.THAI SAN"
+  },
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "1256136015",
+    "ITEM_NO": "427292211",
+    "QTY": 990,
+    "UNIT_PRICE": 4.282,
+    "AMOUNT": 4239.18,
+    "% Confidence": 0.9937744140625,
+    "filename": "1.THAI SAN"
+  },
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "1256136018",
+    "ITEM_NO": "427292511",
+    "QTY": 800,
+    "UNIT_PRICE": 2.2922,
+    "AMOUNT": 1833.76,
+    "% Confidence": 0.998046875,
+    "filename": "1.THAI SAN"
+  },
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "1256136020",
+    "ITEM_NO": "427292611",
+    "QTY": 800,
+    "UNIT_PRICE": 2,
+    "AMOUNT": 2095.92,
+    "% Confidence": 0.9317057291666666,
+    "filename": "1.THAI SAN"
+  },
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "1256136028",
+    "ITEM_NO": "142679712",
+    "QTY": 4000,
+    "UNIT_PRICE": 2.2174,
+    "AMOUNT": 8869.6,
+    "% Confidence": 0.9973958333333334,
+    "filename": "1.THAI SAN"
+  },
+  {
+    "INVOICE_NO": "IV2308578",
+    "PO_NO": "1256136030",
+    "ITEM_NO": "442680041",
+    "QTY": 1920,
+    "UNIT_PRICE": 1.004,
+    "AMOUNT": 1927.68,
+    "% Confidence": 0.9974772135416666,
+    "filename": "1.THAI SAN"
+  }
+]

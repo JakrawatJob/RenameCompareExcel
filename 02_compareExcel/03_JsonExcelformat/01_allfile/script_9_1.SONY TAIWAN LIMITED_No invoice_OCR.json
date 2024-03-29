@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "8031076142",
+    "PO_NO": "8011074861",
+    "ITEM_NO": "173704111",
+    "QTY": 467,
+    "UNIT_PRICE": 6.612,
+    "AMOUNT": 3087.8,
+    "% Confidence": 0.998291015625,
+    "filename": "1.SONY TAIWAN LIMITED_No invoice"
+  },
+  {
+    "INVOICE_NO": "8031076142",
+    "PO_NO": "8011074861",
+    "ITEM_NO": "173704111",
+    "QTY": 467,
+    "UNIT_PRICE": 6.612,
+    "AMOUNT": 3087.8,
+    "% Confidence": 0.998046875,
+    "filename": "1.SONY TAIWAN LIMITED_No invoice"
+  }
+]

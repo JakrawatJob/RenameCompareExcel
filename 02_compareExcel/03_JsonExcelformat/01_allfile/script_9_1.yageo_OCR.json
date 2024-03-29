@@ -1,0 +1,62 @@
+[
+  {
+    "INVOICE_NO": "502965147",
+    "PO_NO": "1251678001STT",
+    "ITEM_NO": "121682391",
+    "QTY": 40,
+    "UNIT_PRICE": 0.45,
+    "AMOUNT": 18,
+    "% Confidence": 0.99658203125,
+    "filename": "1.yageo"
+  },
+  {
+    "INVOICE_NO": "502965147",
+    "PO_NO": "1251678004STT",
+    "ITEM_NO": "122018181",
+    "QTY": 10,
+    "UNIT_PRICE": 0.25,
+    "AMOUNT": 2.5,
+    "% Confidence": 0.9970703125,
+    "filename": "1.yageo"
+  },
+  {
+    "INVOICE_NO": "502965147",
+    "PO_NO": "1251678014STT",
+    "ITEM_NO": "124072691",
+    "QTY": 40,
+    "UNIT_PRICE": 0.35,
+    "AMOUNT": 14,
+    "% Confidence": 0.9973958333333334,
+    "filename": "1.yageo"
+  },
+  {
+    "INVOICE_NO": "502965147",
+    "PO_NO": "1251678020STT",
+    "ITEM_NO": "125722011",
+    "QTY": 40,
+    "UNIT_PRICE": 0.42,
+    "AMOUNT": 16.8,
+    "% Confidence": 0.996826171875,
+    "filename": "1.yageo"
+  },
+  {
+    "INVOICE_NO": "502965147",
+    "PO_NO": "1251678021STT",
+    "ITEM_NO": "125722211",
+    "QTY": 220,
+    "UNIT_PRICE": 0.42,
+    "AMOUNT": 92.4,
+    "% Confidence": 0.9973958333333334,
+    "filename": "1.yageo"
+  },
+  {
+    "INVOICE_NO": "502965147",
+    "PO_NO": "1251678022STT",
+    "ITEM_NO": "125722211",
+    "QTY": 150,
+    "UNIT_PRICE": 0.42,
+    "AMOUNT": 63,
+    "% Confidence": 0.99560546875,
+    "filename": "1.yageo"
+  }
+]

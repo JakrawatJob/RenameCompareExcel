@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "74510229",
+    "PO_NO": "1250267001",
+    "ITEM_NO": "100318411",
+    "QTY": 4115,
+    "UNIT_PRICE": 139.48,
+    "AMOUNT": 573960.2,
+    "% Confidence": 0.9956461588541666,
+    "filename": "1.KCE"
+  },
+  {
+    "INVOICE_NO": "74510229",
+    "PO_NO": "1251963001",
+    "ITEM_NO": "00989411",
+    "QTY": 6000,
+    "UNIT_PRICE": 194.94,
+    "AMOUNT": 1169,
+    "% Confidence": 0.9298746744791666,
+    "filename": "1.KCE"
+  }
+]

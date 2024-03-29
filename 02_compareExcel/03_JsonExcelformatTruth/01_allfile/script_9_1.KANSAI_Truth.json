@@ -1,0 +1,42 @@
+[
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": 1257216004,
+    "ITEM_NO": 174646101,
+    "QTY": 1500,
+    "UNIT_PRICE": 0.34,
+    "AMOUNT": 510
+  },
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": 1257261003,
+    "ITEM_NO": 472657301,
+    "QTY": 3500,
+    "UNIT_PRICE": 0.521,
+    "AMOUNT": 1823.5
+  },
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": 1257261017,
+    "ITEM_NO": 504258301,
+    "QTY": 2000,
+    "UNIT_PRICE": 2.66,
+    "AMOUNT": 5320
+  },
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": 1257261016,
+    "ITEM_NO": 503095601,
+    "QTY": 5000,
+    "UNIT_PRICE": 2.27,
+    "AMOUNT": 11350
+  },
+  {
+    "INVOICE_NO": "16731/23",
+    "PO_NO": 1257200022,
+    "ITEM_NO": 504393401,
+    "QTY": 2700,
+    "UNIT_PRICE": 4.461,
+    "AMOUNT": 12044.7
+  }
+]

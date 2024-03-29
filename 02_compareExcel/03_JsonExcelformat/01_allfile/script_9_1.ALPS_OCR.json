@@ -1,0 +1,22 @@
+[
+  {
+    "INVOICE_NO": "THG230800347",
+    "PO_NO": "1244085001",
+    "ITEM_NO": "100169311",
+    "QTY": 3600,
+    "UNIT_PRICE": 10.2974,
+    "AMOUNT": 37070.64,
+    "% Confidence": 0.9930013020833334,
+    "filename": "1.ALPS"
+  },
+  {
+    "INVOICE_NO": "THG230800347",
+    "PO_NO": "1243780001",
+    "ITEM_NO": "122786321",
+    "QTY": 2100,
+    "UNIT_PRICE": 19.6771,
+    "AMOUNT": 41321.91,
+    "% Confidence": 0.9940592447916666,
+    "filename": "1.ALPS"
+  }
+]

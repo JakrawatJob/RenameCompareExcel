@@ -1,0 +1,74 @@
+[
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1239417003PEARMYU",
+    "ITEM_NO": "125725811",
+    "QTY": "10000",
+    "UNIT_PRICE": "0.000480",
+    "AMOUNT": "4.80"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1248489006PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": "490000",
+    "UNIT_PRICE": "0.000380",
+    "AMOUNT": "186.20"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249057005PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": "70000",
+    "UNIT_PRICE": "0.000380",
+    "AMOUNT": "26.60"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249057005PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": "600000",
+    "UNIT_PRICE": "0.000380",
+    "AMOUNT": "228.00"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249057005PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": "100000",
+    "UNIT_PRICE": "0.000380",
+    "AMOUNT": "38.00"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249610003PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": "300000",
+    "UNIT_PRICE": "0.000380",
+    "AMOUNT": "114.00"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249057004PEARMYU",
+    "ITEM_NO": "124071891",
+    "QTY": "30000",
+    "UNIT_PRICE": "0.000380",
+    "AMOUNT": "11.40"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1250153005PEARMYU",
+    "ITEM_NO": "124071891",
+    "QTY": "10000",
+    "UNIT_PRICE": "0.000380",
+    "AMOUNT": "3.80"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1250153006PEARMYU",
+    "ITEM_NO": "124071891",
+    "QTY": "40000",
+    "UNIT_PRICE": "0.000380",
+    "AMOUNT": "15.20"
+  }
+]

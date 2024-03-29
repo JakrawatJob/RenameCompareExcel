@@ -1,0 +1,70 @@
+[
+  {
+    "INVOICE_NO": "PTT-D202304106",
+    "PO_NO": "1255758002",
+    "ITEM_NO": "500385801",
+    "QTY": 4000,
+    "UNIT_PRICE": 3.03,
+    "AMOUNT": 12120,
+    "% Confidence": 0.9938422309027778,
+    "filename": "1.SEKISUI"
+  },
+  {
+    "INVOICE_NO": "PTT-D202304106",
+    "PO_NO": "1255147004",
+    "ITEM_NO": "500389111",
+    "QTY": 2,
+    "UNIT_PRICE": 2.81,
+    "AMOUNT": 5620,
+    "% Confidence": 0.9266398111979166,
+    "filename": "1.SEKISUI"
+  },
+  {
+    "INVOICE_NO": "PTT-D202304106",
+    "PO_NO": "1255147008",
+    "ITEM_NO": "301495001",
+    "QTY": 4000,
+    "UNIT_PRICE": 3.2784,
+    "AMOUNT": 13113.6,
+    "% Confidence": 0.9902832031250001,
+    "filename": "1.SEKISUI"
+  },
+  {
+    "INVOICE_NO": "PTT-D202304106",
+    "PO_NO": "9100742001",
+    "ITEM_NO": "2241201",
+    "QTY": 2000,
+    "UNIT_PRICE": 10.2841,
+    "AMOUNT": 20.568,
+    "% Confidence": 0.9291015625,
+    "filename": "1.SEKISUI"
+  },
+  {
+    "INVOICE_NO": "PTT-D202304106",
+    "PO_NO": "1255147009",
+    "ITEM_NO": "02793801",
+    "UNIT_PRICE": 9.6633,
+    "AMOUNT": 8791.92,
+    "% Confidence": 0.9272298177083332,
+    "filename": "1.SEKISUI"
+  },
+  {
+    "INVOICE_NO": "PTT-D202304106",
+    "PO_NO": "1253147011",
+    "ITEM_NO": "502793901",
+    "UNIT_PRICE": 7.014,
+    "AMOUNT": 16833.6,
+    "% Confidence": 0.76180419921875,
+    "filename": "1.SEKISUI"
+  },
+  {
+    "INVOICE_NO": "PTT-D202304106",
+    "PO_NO": "1255147014",
+    "ITEM_NO": "505278201",
+    "QTY": 6000,
+    "UNIT_PRICE": 2.21,
+    "AMOUNT": 13260,
+    "% Confidence": 0.995849609375,
+    "filename": "1.SEKISUI"
+  }
+]

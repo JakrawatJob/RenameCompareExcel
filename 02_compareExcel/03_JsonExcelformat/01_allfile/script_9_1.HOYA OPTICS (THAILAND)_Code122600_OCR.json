@@ -1,0 +1,202 @@
+[
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "501757701",
+    "QTY": 500,
+    "UNIT_PRICE": 663.1795,
+    "AMOUNT": 331589.75,
+    "% Confidence": 0.9967583550347222,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "501758301",
+    "QTY": 500,
+    "UNIT_PRICE": 319.4063,
+    "AMOUNT": 159.703,
+    "% Confidence": 0.9307834201388888,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "501658701",
+    "QTY": 1000,
+    "UNIT_PRICE": 109.911,
+    "AMOUNT": 109911,
+    "% Confidence": 0.9959852430555555,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "501658701",
+    "QTY": 1000,
+    "UNIT_PRICE": 109.911,
+    "AMOUNT": 109911,
+    "% Confidence": 0.9965142144097222,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "501658701",
+    "QTY": 250,
+    "UNIT_PRICE": 109.911,
+    "AMOUNT": 27477.75,
+    "% Confidence": 0.9970024956597222,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "502771801",
+    "QTY": 450,
+    "UNIT_PRICE": 45.1457,
+    "AMOUNT": 20315.565,
+    "% Confidence": 0.9304172092013888,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "502771401",
+    "QTY": 450,
+    "UNIT_PRICE": 49.7904,
+    "AMOUNT": 22405.68,
+    "% Confidence": 0.9974093967013888,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "447091102",
+    "QTY": 3500,
+    "UNIT_PRICE": 78.3201,
+    "AMOUNT": 274120.35,
+    "% Confidence": 0.9969211154513888,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "447091201",
+    "QTY": 2000,
+    "UNIT_PRICE": 96.4145,
+    "AMOUNT": 192829,
+    "% Confidence": 0.9972466362847222,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "458471701",
+    "QTY": 80,
+    "UNIT_PRICE": 570.6102,
+    "AMOUNT": 45648.816,
+    "% Confidence": 0.9313937717013888,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459204501",
+    "QTY": 500,
+    "UNIT_PRICE": 164.535,
+    "AMOUNT": 82267.5,
+    "% Confidence": 0.9976128472222222,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459204501",
+    "QTY": 300,
+    "UNIT_PRICE": 164.535,
+    "AMOUNT": 49360.5,
+    "% Confidence": 0.9968397352430555,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459204602",
+    "QTY": 300,
+    "UNIT_PRICE": 261.3657,
+    "AMOUNT": 78409.71,
+    "% Confidence": 0.9967176649305555,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459204602",
+    "QTY": 300,
+    "UNIT_PRICE": 261.3657,
+    "AMOUNT": 78409.71,
+    "% Confidence": 0.9978162977430555,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459204702",
+    "QTY": 300,
+    "UNIT_PRICE": 148.8066,
+    "AMOUNT": 44641.98,
+    "% Confidence": 0.9961480034722222,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459204702",
+    "QTY": 100,
+    "UNIT_PRICE": 148.8066,
+    "AMOUNT": 14880.66,
+    "% Confidence": 0.9973687065972222,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459205401",
+    "QTY": 300,
+    "UNIT_PRICE": 229.8659,
+    "AMOUNT": 68959.77,
+    "% Confidence": 0.9970431857638888,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459205601",
+    "QTY": 300,
+    "UNIT_PRICE": 177.1422,
+    "AMOUNT": 53142.66,
+    "% Confidence": 0.9961886935763888,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459205601",
+    "QTY": 300,
+    "UNIT_PRICE": 177.1422,
+    "AMOUNT": 53142.66,
+    "% Confidence": 0.9963921440972222,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  },
+  {
+    "INVOICE_NO": "STCNX-2308010",
+    "PO_NO": "3",
+    "ITEM_NO": "459205701",
+    "QTY": 300,
+    "UNIT_PRICE": 316.1378,
+    "AMOUNT": 94841.34,
+    "% Confidence": 0.9974093967013888,
+    "filename": "1.HOYA OPTICS (THAILAND)_Code122600"
+  }
+]

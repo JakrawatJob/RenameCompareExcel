@@ -1,0 +1,192 @@
+[
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1253065003",
+    "ITEM_NO": "456889002",
+    "QTY": 1700,
+    "UNIT_PRICE": 2.57,
+    "AMOUNT": 4369,
+    "% Confidence": 0.998046875,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1253065004",
+    "ITEM_NO": "456889502",
+    "QTY": 1700,
+    "UNIT_PRICE": 2.56,
+    "AMOUNT": 4352,
+    "% Confidence": 0.9986979166666666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812001",
+    "ITEM_NO": "459115601",
+    "QTY": 3240,
+    "UNIT_PRICE": 0.77,
+    "AMOUNT": 2494.8,
+    "% Confidence": 0.99853515625,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254225003",
+    "ITEM_NO": "459115702",
+    "QTY": 1620,
+    "UNIT_PRICE": 3.7,
+    "AMOUNT": 5994,
+    "% Confidence": 0.998046875,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812002",
+    "ITEM_NO": "4595702",
+    "QTY": 3240,
+    "UNIT_PRICE": 3.7,
+    "AMOUNT": 11988,
+    "% Confidence": 0.9983317057291666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254225005",
+    "ITEM_NO": "459116204",
+    "QTY": 630,
+    "UNIT_PRICE": 6.59,
+    "AMOUNT": 4151.7,
+    "% Confidence": 0.9984537760416666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812004",
+    "ITEM_NO": "459116204",
+    "QTY": 3150,
+    "UNIT_PRICE": 6.59,
+    "AMOUNT": 20758.5,
+    "% Confidence": 0.99853515625,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812005",
+    "ITEM_NO": "459116301",
+    "QTY": 4080,
+    "UNIT_PRICE": 1.19,
+    "AMOUNT": 4855.2,
+    "% Confidence": 0.9986165364583334,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812006",
+    "ITEM_NO": "459116401",
+    "QTY": 4080,
+    "UNIT_PRICE": 1.19,
+    "AMOUNT": 4855.2,
+    "% Confidence": 0.9986979166666666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254225008",
+    "ITEM_NO": "459116502",
+    "QTY": 2161,
+    "UNIT_PRICE": 2.41,
+    "AMOUNT": 5208.01,
+    "% Confidence": 0.99853515625,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812007",
+    "ITEM_NO": "459116502",
+    "QTY": 1079,
+    "UNIT_PRICE": 2.41,
+    "AMOUNT": 2600.39,
+    "% Confidence": 0.9984537760416666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1251861020",
+    "ITEM_NO": "459116512",
+    "QTY": 3240,
+    "UNIT_PRICE": 11.57,
+    "AMOUNT": 37486.8,
+    "% Confidence": 0.9983723958333334,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812008",
+    "ITEM_NO": "459116601",
+    "QTY": 6480,
+    "UNIT_PRICE": 0.36,
+    "AMOUNT": 2332.8,
+    "% Confidence": 0.9982096354166666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254225011",
+    "ITEM_NO": "459116803",
+    "QTY": 300,
+    "UNIT_PRICE": 3.35,
+    "AMOUNT": 1005,
+    "% Confidence": 0.9989420572916666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812009",
+    "ITEM_NO": "459116803",
+    "QTY": 3600,
+    "UNIT_PRICE": 3.35,
+    "AMOUNT": 12060,
+    "% Confidence": 0.998291015625,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1252460013",
+    "ITEM_NO": "459117304",
+    "QTY": 520,
+    "UNIT_PRICE": 1.48,
+    "AMOUNT": 769.6,
+    "% Confidence": 0.9986979166666666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812011",
+    "ITEM_NO": "459148702",
+    "QTY": 3400,
+    "UNIT_PRICE": 2.65,
+    "AMOUNT": 9010,
+    "% Confidence": 0.998779296875,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254812013",
+    "ITEM_NO": "469471201",
+    "QTY": 3240,
+    "UNIT_PRICE": 7.35,
+    "AMOUNT": 23814,
+    "% Confidence": 0.9984537760416666,
+    "filename": "1.HIRAISEIMITSU"
+  },
+  {
+    "INVOICE_NO": "66-03278",
+    "PO_NO": "1254225020",
+    "ITEM_NO": "469471201",
+    "QTY": 600,
+    "UNIT_PRICE": 7.35,
+    "AMOUNT": 4410,
+    "% Confidence": 0.9984537760416666,
+    "filename": "1.HIRAISEIMITSU"
+  }
+]

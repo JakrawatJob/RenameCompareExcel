@@ -1,0 +1,91 @@
+[
+  {
+    "INVOICE_NO": "P49073",
+    "PO_NO": "1255948006",
+    "ITEM_NO": "502704101",
+    "QTY": 1680,
+    "UNIT_PRICE": 6.64,
+    "AMOUNT": 11155.2,
+    "% Confidence": 0.99609375,
+    "filename": "1.DAIDONG ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "P49073",
+    "PO_NO": "1255948007",
+    "ITEM_NO": "502704101",
+    "QTY": 4080,
+    "UNIT_PRICE": 6.64,
+    "AMOUNT": 27091.2,
+    "% Confidence": 0.9951985677083334,
+    "filename": "1.DAIDONG ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "P49073",
+    "PO_NO": "1257184004",
+    "ITEM_NO": "72364801",
+    "QTY": 440,
+    "UNIT_PRICE": 5.38,
+    "AMOUNT": 2367.2,
+    "% Confidence": 0.9951171875,
+    "filename": "1.DAIDONG ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "P49073",
+    "PO_NO": "9100577001",
+    "ITEM_NO": "472364801",
+    "QTY": 280,
+    "UNIT_PRICE": 5.38,
+    "AMOUNT": 1506.4,
+    "% Confidence": 0.9955240885416666,
+    "filename": "1.DAIDONG ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "P49073",
+    "PO_NO": "1253003011",
+    "ITEM_NO": "50020131",
+    "QTY": 900,
+    "UNIT_PRICE": 20,
+    "AMOUNT": 18000,
+    "% Confidence": 0.9933268229166666,
+    "filename": "1.DAIDONG ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "P49073",
+    "PO_NO": "1256552011",
+    "ITEM_NO": "504844601",
+    "QTY": 200,
+    "UNIT_PRICE": 6.87,
+    "AMOUNT": 1374,
+    "% Confidence": 0.9951171875,
+    "filename": "1.DAIDONG ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "P49073",
+    "PO_NO": "1257184013",
+    "ITEM_NO": "504844601",
+    "QTY": 1200,
+    "UNIT_PRICE": 6.87,
+    "AMOUNT": 8244,
+    "% Confidence": 0.9930013020833334,
+    "filename": "1.DAIDONG ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "P49073",
+    "PO_NO": "1255948004",
+    "ITEM_NO": "500781501",
+    "QTY": 270,
+    "UNIT_PRICE": 12.4,
+    "AMOUNT": 3348,
+    "% Confidence": 0.9956868489583334,
+    "filename": "1.DAIDONG ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "P49073",
+    "ITEM_NO": "1256552006",
+    "QTY": 60,
+    "UNIT_PRICE": 12.4,
+    "AMOUNT": 39.9,
+    "% Confidence": 0.7630045572916666,
+    "filename": "1.DAIDONG ELECTRONICS"
+  }
+]

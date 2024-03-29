@@ -1,0 +1,58 @@
+[
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "PO_NO": "9100851001",
+    "ITEM_NO": "73293602",
+    "QTY": "150",
+    "UNIT_PRICE": "4.0700",
+    "AMOUNT": "610.50"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "PO_NO": "9100851002",
+    "ITEM_NO": "473293705",
+    "QTY": "1000",
+    "UNIT_PRICE": "3.3100",
+    "AMOUNT": "3310.00"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "PO_NO": "9100851006",
+    "ITEM_NO": "473293705",
+    "QTY": "1000",
+    "UNIT_PRICE": "3.3100",
+    "AMOUNT": "3310.00"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "PO_NO": "9100851007",
+    "ITEM_NO": "473293705",
+    "QTY": "500",
+    "UNIT_PRICE": "3.3100",
+    "AMOUNT": "1655.00"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "PO_NO": "9100851004",
+    "ITEM_NO": "473294003",
+    "QTY": "450",
+    "UNIT_PRICE": "3.3100",
+    "AMOUNT": "1489.50"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "PO_NO": "9100851008",
+    "ITEM_NO": "473294003",
+    "QTY": "550",
+    "UNIT_PRICE": "3.3100",
+    "AMOUNT": "1820.50"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "PO_NO": "9100851003",
+    "ITEM_NO": "474811402",
+    "QTY": "600",
+    "UNIT_PRICE": "3.3100",
+    "AMOUNT": "1986.00"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "INVOICE_NO": "2023027032",
+    "PO_NO": "1251418001",
+    "ITEM_NO": "T0323911",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.00091,
+    "AMOUNT": 9.1,
+    "% Confidence": 0.9962565104166666,
+    "filename": "1.KOA"
+  },
+  {
+    "INVOICE_NO": "2023027032",
+    "PO_NO": "1251418005",
+    "ITEM_NO": "T0329991",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.00177,
+    "AMOUNT": 17.7,
+    "% Confidence": 0.99560546875,
+    "filename": "1.KOA"
+  },
+  {
+    "INVOICE_NO": "2023027032",
+    "PO_NO": "1251418006",
+    "ITEM_NO": "T0329991",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.00177,
+    "AMOUNT": 17.7,
+    "% Confidence": 0.9961751302083334,
+    "filename": "1.KOA"
+  },
+  {
+    "INVOICE_NO": "2023027032",
+    "PO_NO": "1251418007",
+    "ITEM_NO": "T0329991",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.00177,
+    "AMOUNT": 35.4,
+    "% Confidence": 0.99560546875,
+    "filename": "1.KOA"
+  },
+  {
+    "INVOICE_NO": "2023027032",
+    "PO_NO": "1251971005",
+    "ITEM_NO": "T0329991",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.00177,
+    "AMOUNT": 35.4,
+    "% Confidence": 0.995849609375,
+    "filename": "1.KOA"
+  },
+  {
+    "INVOICE_NO": "2023027032",
+    "PO_NO": "1256733003",
+    "ITEM_NO": "125044711",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.00091,
+    "AMOUNT": 9.1,
+    "% Confidence": 0.9960123697916666,
+    "filename": "1.KOA"
+  },
+  {
+    "INVOICE_NO": "2023027032",
+    "PO_NO": "1256733005",
+    "ITEM_NO": "125048011",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.00091,
+    "AMOUNT": 9.1,
+    "% Confidence": 0.9956868489583334,
+    "filename": "1.KOA"
+  }
+]

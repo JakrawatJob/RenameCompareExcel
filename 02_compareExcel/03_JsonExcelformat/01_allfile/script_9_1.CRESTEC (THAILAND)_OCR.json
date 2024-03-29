@@ -1,0 +1,101 @@
+[
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1263408001",
+    "ITEM_NO": "309452803",
+    "QTY": 4500,
+    "UNIT_PRICE": 0.793,
+    "AMOUNT": 3568.5,
+    "% Confidence": 0.997802734375,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253408002",
+    "QTY": 4500,
+    "UNIT_PRICE": 0.793,
+    "AMOUNT": 3568.5,
+    "% Confidence": 0.83251953125,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253544001",
+    "ITEM_NO": "900952003",
+    "QTY": 500,
+    "UNIT_PRICE": 0.793,
+    "AMOUNT": 396.5,
+    "% Confidence": 0.996826171875,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253776001",
+    "ITEM_NO": "9862003",
+    "QTY": 2500,
+    "UNIT_PRICE": 0.793,
+    "AMOUNT": 1982.5,
+    "% Confidence": 0.998291015625,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253975001",
+    "ITEM_NO": "909952903",
+    "QTY": 2500,
+    "UNIT_PRICE": 0.793,
+    "AMOUNT": 1982.5,
+    "% Confidence": 0.9977213541666666,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253975002",
+    "ITEM_NO": "309052803",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.783,
+    "AMOUNT": 1586,
+    "% Confidence": 0.9314615885416666,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1254124001",
+    "ITEM_NO": "300952903",
+    "QTY": 500,
+    "UNIT_PRICE": 0.793,
+    "AMOUNT": 396.5,
+    "% Confidence": 0.9983723958333334,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1254124002",
+    "ITEM_NO": "900952803",
+    "QTY": 500,
+    "UNIT_PRICE": 0.703,
+    "AMOUNT": 396.5,
+    "% Confidence": 0.9311360677083332,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1254355001",
+    "ITEM_NO": "300052803",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.783,
+    "AMOUNT": 793,
+    "% Confidence": 0.9304036458333332,
+    "filename": "1.CRESTEC (THAILAND)"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1254355002",
+    "ITEM_NO": "309052903",
+    "QTY": 2500,
+    "UNIT_PRICE": 0.783,
+    "AMOUNT": 1982.5,
+    "% Confidence": 0.9316243489583332,
+    "filename": "1.CRESTEC (THAILAND)"
+  }
+]

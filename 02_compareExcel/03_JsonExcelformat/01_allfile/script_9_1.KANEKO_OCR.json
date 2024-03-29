@@ -1,0 +1,102 @@
+[
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "1244486001",
+    "ITEM_NO": "416733431",
+    "QTY": 3000,
+    "UNIT_PRICE": 0.5372,
+    "AMOUNT": 1611.6,
+    "% Confidence": 0.9974772135416666,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "1240581004",
+    "ITEM_NO": "428178511",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.5565,
+    "AMOUNT": 556.5,
+    "% Confidence": 0.9977213541666666,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "9098236001",
+    "ITEM_NO": "453501102",
+    "QTY": 1000,
+    "UNIT_PRICE": 2.974,
+    "AMOUNT": 2974,
+    "% Confidence": 0.997802734375,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "9098336001",
+    "ITEM_NO": "458145904",
+    "QTY": 920,
+    "UNIT_PRICE": 6.655,
+    "AMOUNT": 6122.6,
+    "% Confidence": 0.9972330729166666,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "9097950001",
+    "ITEM_NO": "458145922",
+    "QTY": 280,
+    "UNIT_PRICE": 6.823,
+    "AMOUNT": 1910.44,
+    "% Confidence": 0.9973958333333334,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "9098118003",
+    "ITEM_NO": "458761503",
+    "QTY": 720,
+    "UNIT_PRICE": 9.992,
+    "AMOUNT": 7194.24,
+    "% Confidence": 0.998046875,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "9098234001",
+    "ITEM_NO": "472820603",
+    "QTY": 700,
+    "UNIT_PRICE": 5.433,
+    "AMOUNT": 3803.1,
+    "% Confidence": 0.99755859375,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "1244486005",
+    "ITEM_NO": "501721701",
+    "QTY": 5000,
+    "UNIT_PRICE": 1.135,
+    "AMOUNT": 5675,
+    "% Confidence": 0.996826171875,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "1243476005",
+    "ITEM_NO": "501721711",
+    "QTY": 1000,
+    "UNIT_PRICE": 1,
+    "AMOUNT": 1135,
+    "% Confidence": 0.9304036458333332,
+    "filename": "1.KANEKO"
+  },
+  {
+    "INVOICE_NO": "KSC2023060801H",
+    "PO_NO": "1242464006",
+    "ITEM_NO": "505238301",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.8855,
+    "AMOUNT": 1885.5,
+    "% Confidence": 0.9978841145833334,
+    "filename": "1.KANEKO"
+  }
+]

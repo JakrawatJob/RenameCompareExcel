@@ -1,0 +1,131 @@
+[
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618014",
+    "ITEM_NO": "4468921012",
+    "QTY": 2000,
+    "UNIT_PRICE": 106.766,
+    "AMOUNT": 213532,
+    "% Confidence": 0.99609375,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618019",
+    "ITEM_NO": "446892101",
+    "QTY": 160,
+    "UNIT_PRICE": 106.766,
+    "AMOUNT": 17082.56,
+    "% Confidence": 0.9965006510416666,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "ITEM_NO": "446892201",
+    "QTY": 1400,
+    "UNIT_PRICE": 102.152,
+    "AMOUNT": 143012.8,
+    "% Confidence": 0.8287353515625,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618009",
+    "ITEM_NO": "446892201",
+    "QTY": 2000,
+    "UNIT_PRICE": 102.152,
+    "AMOUNT": 204304,
+    "% Confidence": 0.9962158203125,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618031",
+    "ITEM_NO": "446892201",
+    "QTY": 500,
+    "UNIT_PRICE": 102.152,
+    "AMOUNT": 51076,
+    "% Confidence": 0.9951985677083334,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618027",
+    "ITEM_NO": "442482301",
+    "QTY": 4500,
+    "UNIT_PRICE": 45.8042,
+    "AMOUNT": 206118.9,
+    "% Confidence": 0.99560546875,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618030",
+    "ITEM_NO": "442482301",
+    "QTY": 6000,
+    "UNIT_PRICE": 45.8042,
+    "AMOUNT": 274825.2,
+    "% Confidence": 0.9959716796875,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618050",
+    "ITEM_NO": "442482301",
+    "QTY": 6000,
+    "UNIT_PRICE": 45.8042,
+    "AMOUNT": 274825.2,
+    "% Confidence": 0.99658203125,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618039",
+    "ITEM_NO": "442482802",
+    "QTY": 4800,
+    "UNIT_PRICE": 65.8518,
+    "AMOUNT": 316088.64,
+    "% Confidence": 0.9960530598958334,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618053",
+    "ITEM_NO": "442482802",
+    "QTY": 4800,
+    "UNIT_PRICE": 65.8518,
+    "AMOUNT": 316088.64,
+    "% Confidence": 0.994140625,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618037",
+    "ITEM_NO": "469310201",
+    "QTY": 1200,
+    "UNIT_PRICE": 381.8082,
+    "AMOUNT": 458169.84,
+    "% Confidence": 0.9947916666666666,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618056",
+    "ITEM_NO": "447090702",
+    "QTY": 3600,
+    "UNIT_PRICE": 53.1137,
+    "AMOUNT": 191209.32,
+    "% Confidence": 0.9947102864583334,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  },
+  {
+    "INVOICE_NO": "SYT-2309003",
+    "PO_NO": "9099618003",
+    "ITEM_NO": "447090801",
+    "QTY": 3400,
+    "UNIT_PRICE": 93.0961,
+    "AMOUNT": 316526.74,
+    "% Confidence": 0.9958902994791666,
+    "filename": "1.HOYA OPTICS(THAILAND)LTD._Code122610"
+  }
+]

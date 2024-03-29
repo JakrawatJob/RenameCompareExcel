@@ -1,0 +1,90 @@
+[
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1254483006",
+    "ITEM_NO": "A5028116A",
+    "QTY": "120.00",
+    "UNIT_PRICE": "86.4300",
+    "AMOUNT": "10371.60"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1255088003",
+    "ITEM_NO": "A5028116A",
+    "QTY": "120.00",
+    "UNIT_PRICE": "86.4300",
+    "AMOUNT": "10371.60"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1255088004",
+    "ITEM_NO": "A5028116A",
+    "QTY": "80.00",
+    "UNIT_PRICE": "86.4300",
+    "AMOUNT": "6914.40"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1254483008",
+    "ITEM_NO": "A5028118A",
+    "QTY": "120.00",
+    "UNIT_PRICE": "59.2000",
+    "AMOUNT": "7104.00"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1255088005",
+    "ITEM_NO": "A5028118A",
+    "QTY": "120.00",
+    "UNIT_PRICE": "59.2000",
+    "AMOUNT": "7104.00"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1255088006",
+    "ITEM_NO": "A5028118A",
+    "QTY": "80.00",
+    "UNIT_PRICE": "59.2000",
+    "AMOUNT": "4736.00"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1254483010",
+    "ITEM_NO": "A5028122A",
+    "QTY": "120.00",
+    "UNIT_PRICE": "6.7800",
+    "AMOUNT": "813.60"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1255088007",
+    "ITEM_NO": "A5028122A",
+    "QTY": "120.00",
+    "UNIT_PRICE": "6.7800",
+    "AMOUNT": "813.60"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1255088008",
+    "ITEM_NO": "A5028122A",
+    "QTY": "80.00",
+    "UNIT_PRICE": "6.7800",
+    "AMOUNT": "542.40"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "1254483013",
+    "ITEM_NO": "A5056841A",
+    "QTY": "80.00",
+    "UNIT_PRICE": "270.3900",
+    "AMOUNT": "21631.20"
+  },
+  {
+    "INVOICE_NO": "SSVE23AUG34",
+    "PO_NO": "9100407001",
+    "ITEM_NO": "A5056841A",
+    "QTY": "240.00",
+    "UNIT_PRICE": "270.3900",
+    "AMOUNT": "64893.60"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "INVOICE_NO": "CCR0187425",
+    "PO_NO": "1244155002",
+    "ITEM_NO": "111899711",
+    "QTY": 2500,
+    "UNIT_PRICE": 3,
+    "AMOUNT": 0.064,
+    "% Confidence": 0.930078125,
+    "filename": "1.CHEMI-CON ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "CCR0187425",
+    "PO_NO": "1244155003",
+    "ITEM_NO": "111899711",
+    "QTY": 7000,
+    "UNIT_PRICE": 3,
+    "AMOUNT": 22484,
+    "% Confidence": 0.930322265625,
+    "filename": "1.CHEMI-CON ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "CCR0187425",
+    "PO_NO": "1244689003",
+    "ITEM_NO": "111899711",
+    "QTY": 1000,
+    "UNIT_PRICE": 3,
+    "AMOUNT": 3212,
+    "% Confidence": 0.9301595052083332,
+    "filename": "1.CHEMI-CON ELECTRONICS"
+  },
+  {
+    "INVOICE_NO": "CCR0187425",
+    "PO_NO": "1244689004",
+    "ITEM_NO": "111899711",
+    "QTY": 7500,
+    "UNIT_PRICE": 3,
+    "AMOUNT": 24090,
+    "% Confidence": 0.9301595052083332,
+    "filename": "1.CHEMI-CON ELECTRONICS"
+  }
+]

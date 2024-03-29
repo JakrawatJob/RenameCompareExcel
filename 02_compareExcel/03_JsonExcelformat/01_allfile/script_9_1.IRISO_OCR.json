@@ -1,0 +1,62 @@
+[
+  {
+    "INVOICE_NO": "TH2308-180",
+    "PO_NO": "1245212006",
+    "ITEM_NO": "182064671",
+    "QTY": 8000,
+    "UNIT_PRICE": 1.6263,
+    "AMOUNT": 13010.4,
+    "% Confidence": 0.9979654947916666,
+    "filename": "1.IRISO"
+  },
+  {
+    "INVOICE_NO": "TH2308-180",
+    "PO_NO": "1246392001",
+    "ITEM_NO": "100611311",
+    "QTY": 3000,
+    "UNIT_PRICE": 5.7358,
+    "AMOUNT": 17207.4,
+    "% Confidence": 0.99853515625,
+    "filename": "1.IRISO"
+  },
+  {
+    "INVOICE_NO": "TH2308-180",
+    "PO_NO": "1246392002",
+    "ITEM_NO": "100611311",
+    "QTY": 18000,
+    "UNIT_PRICE": 5.7358,
+    "AMOUNT": 103244.4,
+    "% Confidence": 0.998291015625,
+    "filename": "1.IRISO"
+  },
+  {
+    "INVOICE_NO": "TH2308-180",
+    "PO_NO": "1246392004",
+    "ITEM_NO": "182043811",
+    "QTY": 7500,
+    "UNIT_PRICE": 2.2201,
+    "AMOUNT": 16650.75,
+    "% Confidence": 0.9983723958333334,
+    "filename": "1.IRISO"
+  },
+  {
+    "INVOICE_NO": "TH2308-180",
+    "PO_NO": "1246392005",
+    "ITEM_NO": "182043811",
+    "QTY": 20000,
+    "UNIT_PRICE": 2.2201,
+    "AMOUNT": 44402,
+    "% Confidence": 0.9988606770833334,
+    "filename": "1.IRISO"
+  },
+  {
+    "INVOICE_NO": "TH2308-180",
+    "PO_NO": "1246392009",
+    "ITEM_NO": "184385871",
+    "QTY": 2000,
+    "UNIT_PRICE": 2.2268,
+    "AMOUNT": 4453.6,
+    "% Confidence": 0.998046875,
+    "filename": "1.IRISO"
+  }
+]

@@ -15,16 +15,16 @@ rl.question("Please enter the folder name: ", (folderName) => {
   folderFiles.forEach((folder) => {
     const pathJoin1 = path.join(folderPath, folder);
     const pathJoin2 = path.join(folderPath2, folder);
-    console.log("folder", folder);
+    //console.log("folder", folder);
     const arrfiles = fs
       .readdirSync(pathJoin1)
       .map((file) => `${folderPath}/${folder}/${file}`);
     const arrfiles2 = fs
       .readdirSync(pathJoin2)
       .map((file) => `${folderPath2}/${folder}/${file}`);
-    console.log("folderPath, folder", arrfiles, arrfiles2);
+    //console.log("folderPath, folder", arrfiles, arrfiles2);
     function readJSONFile(filePath) {
-      console.log("filepath", filePath);
+      //console.log("filepath", filePath);
       if (!filePath) {
         console.error("Error: File path is undefined.");
         return null;
@@ -67,7 +67,7 @@ rl.question("Please enter the folder name: ", (folderName) => {
       }
     }
     function getFilenameWithoutExtension(filePath) {
-      console.log("filePathfilePath", filePath);
+      //console.log("filePathfilePath", filePath);
       if (filePath) {
         const parts = filePath.split("/");
         let filename = parts[parts.length - 1];
@@ -113,26 +113,31 @@ rl.question("Please enter the folder name: ", (folderName) => {
     //console.log(arrfiles);
     let notfound = 0;
     for (let i = 0; i < arrfiles.length; i += 1) {
+      //console.log(arrfiles[i], arrfiles2[i]);
       const filename = getFilenameWithoutExtension(arrfiles[i]);
       let fileTruth = getFilenameWithoutExtension(arrfiles2[i - notfound]);
+
       if (!fileTruth) {
         fileTruth = getFilenameWithoutExtension(arrfiles2[i - notfound - 1]);
         notfound += 1;
       }
-      const extractedData = filename.split("_")[0];
-      const isPresent = fileTruth.includes(extractedData);
 
+      //console.log(arrfiles[i], arrfiles2[i - notfound]);
+      //const extractedData = filename.split("_")[0];
+      let isPresent = false;
       if (filename) {
         console.log(
-          filename,
-          fileTruth,
-          arrfiles.length,
-          arrfiles2.length,
-          isPresent
+          filename.replace("_OCR", ""),
+          fileTruth.replace("_Truth", "")
         );
+        if (filename.replace("_OCR", "") != fileTruth.replace("_Truth", "")) {
+          isPresent = false;
+        } else {
+          isPresent = true;
+        }
       }
       const data = readJSONFile(arrfiles[i]);
-      console.log("data here", data);
+      //console.log("data here", data);
       if (data.length == 0) {
         console.log("IS HERE");
         continue;

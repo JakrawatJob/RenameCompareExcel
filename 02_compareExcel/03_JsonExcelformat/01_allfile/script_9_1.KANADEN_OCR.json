@@ -1,0 +1,62 @@
+[
+  {
+    "INVOICE_NO": "2309024",
+    "PO_NO": "1246483016",
+    "ITEM_NO": "872903703",
+    "QTY": 4,
+    "UNIT_PRICE": 11,
+    "AMOUNT": 44,
+    "% Confidence": 0.997802734375,
+    "filename": "1.KANADEN"
+  },
+  {
+    "INVOICE_NO": "2309024",
+    "PO_NO": "1244235012",
+    "ITEM_NO": "655339601",
+    "QTY": 1,
+    "UNIT_PRICE": 114,
+    "AMOUNT": 114,
+    "% Confidence": 0.9970703125,
+    "filename": "1.KANADEN"
+  },
+  {
+    "INVOICE_NO": "2309024",
+    "PO_NO": "1246483017",
+    "ITEM_NO": "872905282",
+    "QTY": 3,
+    "UNIT_PRICE": 49.5,
+    "AMOUNT": 148.5,
+    "% Confidence": 0.9972330729166666,
+    "filename": "1.KANADEN"
+  },
+  {
+    "INVOICE_NO": "2309024",
+    "PO_NO": "1245298004",
+    "ITEM_NO": "655150301",
+    "QTY": 1350,
+    "UNIT_PRICE": 275,
+    "AMOUNT": 3712.5,
+    "% Confidence": 0.931298828125,
+    "filename": "1.KANADEN"
+  },
+  {
+    "INVOICE_NO": "2309024",
+    "PO_NO": "1246483015",
+    "ITEM_NO": "872903689",
+    "QTY": 2,
+    "UNIT_PRICE": 11,
+    "AMOUNT": 22,
+    "% Confidence": 0.9971516927083334,
+    "filename": "1.KANADEN"
+  },
+  {
+    "INVOICE_NO": "2309024",
+    "PO_NO": "1245298001",
+    "ITEM_NO": "655150201",
+    "QTY": 13,
+    "UNIT_PRICE": 275,
+    "AMOUNT": 3588.75,
+    "% Confidence": 0.930078125,
+    "filename": "1.KANADEN"
+  }
+]

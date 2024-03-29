@@ -1,0 +1,62 @@
+[
+  {
+    "INVOICE_NO": "T036967",
+    "PO_NO": "1242216003",
+    "ITEM_NO": "176452181",
+    "QTY": 5000,
+    "UNIT_PRICE": 4.4537,
+    "AMOUNT": 22268.5,
+    "% Confidence": 0.9968058268229166,
+    "filename": "1.KYOCERA"
+  },
+  {
+    "INVOICE_NO": "T036967",
+    "PO_NO": "1245916002",
+    "ITEM_NO": "157334871",
+    "QTY": 10,
+    "UNIT_PRICE": 2.1728,
+    "AMOUNT": 21728,
+    "% Confidence": 0.9303426106770832,
+    "filename": "1.KYOCERA"
+  },
+  {
+    "INVOICE_NO": "T036967",
+    "PO_NO": "1247538003",
+    "ITEM_NO": "182084231",
+    "QTY": 4500,
+    "UNIT_PRICE": 3.2053,
+    "AMOUNT": 14423.85,
+    "% Confidence": 0.99639892578125,
+    "filename": "1.KYOCERA"
+  },
+  {
+    "INVOICE_NO": "T036967",
+    "PO_NO": "1247817001",
+    "ITEM_NO": "181576271",
+    "QTY": 12000,
+    "UNIT_PRICE": 2.851,
+    "AMOUNT": 34212,
+    "% Confidence": 0.9970906575520834,
+    "filename": "1.KYOCERA"
+  },
+  {
+    "INVOICE_NO": "T036967",
+    "PO_NO": "1248594005",
+    "ITEM_NO": "179390671",
+    "QTY": 6000,
+    "UNIT_PRICE": 2.7802,
+    "AMOUNT": 16681.2,
+    "% Confidence": 0.99468994140625,
+    "filename": "1.KYOCERA"
+  },
+  {
+    "INVOICE_NO": "T036967",
+    "PO_NO": "1248594006",
+    "ITEM_NO": "182084231",
+    "QTY": 4500,
+    "UNIT_PRICE": 3.2053,
+    "AMOUNT": 14423.85,
+    "% Confidence": 0.99578857421875,
+    "filename": "1.KYOCERA"
+  }
+]

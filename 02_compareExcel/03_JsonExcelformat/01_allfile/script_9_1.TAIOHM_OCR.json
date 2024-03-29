@@ -1,0 +1,82 @@
+[
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1248489006PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": 490000,
+    "UNIT_PRICE": 0.00038,
+    "AMOUNT": 186.2,
+    "% Confidence": 0.9917805989583334,
+    "filename": "1.TAIOHM"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249057005PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": 70000,
+    "UNIT_PRICE": 0.00038,
+    "AMOUNT": 26.6,
+    "% Confidence": 0.9935438368055557,
+    "filename": "1.TAIOHM"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249057005PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": 600000,
+    "UNIT_PRICE": 0.00038,
+    "AMOUNT": 228,
+    "% Confidence": 0.9951985677083334,
+    "filename": "1.TAIOHM"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249057005PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": 100000,
+    "UNIT_PRICE": 0.00038,
+    "AMOUNT": 38,
+    "% Confidence": 0.9937879774305557,
+    "filename": "1.TAIOHM"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249610003PEARMYU",
+    "ITEM_NO": "169453591",
+    "QTY": 300000,
+    "UNIT_PRICE": 0.00038,
+    "AMOUNT": 114,
+    "% Confidence": 0.9926215277777778,
+    "filename": "1.TAIOHM"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1249057004PEARMYU",
+    "ITEM_NO": "124071891",
+    "QTY": 30000,
+    "UNIT_PRICE": 0.000384,
+    "AMOUNT": 11.4,
+    "% Confidence": 0.9277723524305556,
+    "filename": "1.TAIOHM"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1250153005PEARMYU",
+    "ITEM_NO": "124071891",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.00038,
+    "AMOUNT": 3.8,
+    "% Confidence": 0.993191189236111,
+    "filename": "1.TAIOHM"
+  },
+  {
+    "INVOICE_NO": "I2309099",
+    "PO_NO": "1250153006PEARMYU",
+    "ITEM_NO": "124071891",
+    "QTY": 1650000,
+    "UNIT_PRICE": 40000,
+    "AMOUNT": 15.2,
+    "% Confidence": 0.9263346354166666,
+    "filename": "1.TAIOHM"
+  }
+]

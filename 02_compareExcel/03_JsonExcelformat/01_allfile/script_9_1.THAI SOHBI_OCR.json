@@ -1,0 +1,72 @@
+[
+  {
+    "INVOICE_NO": "0749458",
+    "PO_NO": "1254236005",
+    "ITEM_NO": "427600303",
+    "QTY": 2400,
+    "UNIT_PRICE": 0.48,
+    "AMOUNT": 1152,
+    "% Confidence": 0.9922960069444445,
+    "filename": "1.THAI SOHBI"
+  },
+  {
+    "INVOICE_NO": "0749458",
+    "PO_NO": "1254236014",
+    "ITEM_NO": "468905102",
+    "QTY": 960,
+    "UNIT_PRICE": 2,
+    "AMOUNT": 2342.4,
+    "% Confidence": 0.9250868055555556,
+    "filename": "1.THAI SOHBI"
+  },
+  {
+    "INVOICE_NO": "0749458",
+    "PO_NO": "1254236022",
+    "ITEM_NO": "469996003",
+    "QTY": 1400,
+    "UNIT_PRICE": 7.29,
+    "AMOUNT": 10206,
+    "% Confidence": 0.995361328125,
+    "filename": "1.THAI SOHBI"
+  },
+  {
+    "INVOICE_NO": "0749458",
+    "PO_NO": "1254823018",
+    "ITEM_NO": "469996003",
+    "QTY": 300,
+    "UNIT_PRICE": 7.29,
+    "AMOUNT": 2187,
+    "% Confidence": 0.9925944010416666,
+    "filename": "1.THAI SOHBI"
+  },
+  {
+    "INVOICE_NO": "0749458",
+    "PO_NO": "1254236028",
+    "ITEM_NO": "472567001",
+    "QTY": 1200,
+    "UNIT_PRICE": 1,
+    "AMOUNT": 1824,
+    "% Confidence": 0.928857421875,
+    "filename": "1.THAI SOHBI"
+  },
+  {
+    "INVOICE_NO": "0749458",
+    "PO_NO": "1254236031",
+    "ITEM_NO": "473597803",
+    "QTY": 600,
+    "UNIT_PRICE": 7.73,
+    "AMOUNT": 4638,
+    "% Confidence": 0.994873046875,
+    "filename": "1.THAI SOHBI"
+  },
+  {
+    "INVOICE_NO": "0749458",
+    "PO_NO": "1254236053",
+    "ITEM_NO": "502966702",
+    "QTY": 500,
+    "UNIT_PRICE": 6.74,
+    "AMOUNT": 3370,
+    "% Confidence": 0.9944661458333334,
+    "filename": "1.THAI SOHBI"
+  }
+]

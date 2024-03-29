@@ -1,0 +1,92 @@
+[
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1249443001",
+    "ITEM_NO": "100580111",
+    "QTY": 15000,
+    "UNIT_PRICE": 0.00035,
+    "AMOUNT": 5.25,
+    "% Confidence": 0.993408203125,
+    "filename": "1.KAMAYA"
+  },
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1249443002",
+    "ITEM_NO": "100580111",
+    "QTY": 15000,
+    "UNIT_PRICE": 0.00035,
+    "AMOUNT": 5.25,
+    "% Confidence": 0.9933268229166666,
+    "filename": "1.KAMAYA"
+  },
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1251697015",
+    "ITEM_NO": "120895881",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.001,
+    "AMOUNT": 10,
+    "% Confidence": 0.9937337239583334,
+    "filename": "1.KAMAYA"
+  },
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1249443031",
+    "ITEM_NO": "124068191",
+    "QTY": 60000,
+    "UNIT_PRICE": 0.00035,
+    "AMOUNT": 21,
+    "% Confidence": 0.9932454427083334,
+    "filename": "1.KAMAYA"
+  },
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1249539002",
+    "ITEM_NO": "124068192",
+    "QTY": 120000,
+    "UNIT_PRICE": 0.00035,
+    "AMOUNT": 42,
+    "% Confidence": 0.9932454427083334,
+    "filename": "1.KAMAYA"
+  },
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1249980037",
+    "ITEM_NO": "124068191",
+    "QTY": 90000,
+    "UNIT_PRICE": 0.00035,
+    "AMOUNT": 31.5,
+    "% Confidence": 0.9933268229166666,
+    "filename": "1.KAMAYA"
+  },
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1250075004",
+    "ITEM_NO": "124068191",
+    "QTY": 135000,
+    "UNIT_PRICE": 0.00035,
+    "AMOUNT": 47.25,
+    "% Confidence": 0.9928385416666666,
+    "filename": "1.KAMAYA"
+  },
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1250526040",
+    "ITEM_NO": "124068191",
+    "QTY": 15,
+    "UNIT_PRICE": 0.00035,
+    "AMOUNT": 5.25,
+    "% Confidence": 0.9272298177083332,
+    "filename": "1.KAMAYA"
+  },
+  {
+    "INVOICE_NO": "9345080",
+    "PO_NO": "1250526041",
+    "ITEM_NO": "124068191",
+    "QTY": 105000,
+    "UNIT_PRICE": 0.00035,
+    "AMOUNT": 36.75,
+    "% Confidence": 0.9933268229166666,
+    "filename": "1.KAMAYA"
+  }
+]

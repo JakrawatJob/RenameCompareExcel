@@ -1,0 +1,122 @@
+[
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1254519001",
+    "ITEM_NO": "455917101",
+    "QTY": 540,
+    "UNIT_PRICE": 2.807,
+    "AMOUNT": 1515.78,
+    "% Confidence": 0.9925130208333334,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1252200010",
+    "ITEM_NO": "474502801",
+    "QTY": 1000,
+    "UNIT_PRICE": 0.771,
+    "AMOUNT": 771,
+    "% Confidence": 0.9934895833333334,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1252801008",
+    "ITEM_NO": "474502801",
+    "QTY": 1400,
+    "UNIT_PRICE": 0.771,
+    "AMOUNT": 1079.4,
+    "% Confidence": 0.9925130208333334,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1252200012",
+    "ITEM_NO": "474503101",
+    "QTY": 2200,
+    "UNIT_PRICE": 0.99,
+    "AMOUNT": 2178,
+    "% Confidence": 0.9908854166666666,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1252801010",
+    "ITEM_NO": "4745031401",
+    "QTY": 200,
+    "UNIT_PRICE": 0.99,
+    "AMOUNT": 198,
+    "% Confidence": 0.9922688802083334,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1254519059",
+    "ITEM_NO": "X25907041",
+    "QTY": 630,
+    "UNIT_PRICE": 5.83,
+    "AMOUNT": 3672.9,
+    "% Confidence": 0.992431640625,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1253951049",
+    "ITEM_NO": "X25907093",
+    "QTY": 43,
+    "UNIT_PRICE": 41.005,
+    "AMOUNT": 1763.22,
+    "% Confidence": 0.992919921875,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1254519061",
+    "ITEM_NO": "X25907093",
+    "QTY": 457,
+    "UNIT_PRICE": 41.005,
+    "AMOUNT": 18739.29,
+    "% Confidence": 0.9925944010416666,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1254519062",
+    "ITEM_NO": "X25907101",
+    "QTY": 500,
+    "UNIT_PRICE": 12.86,
+    "AMOUNT": 6430,
+    "% Confidence": 0.991943359375,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1254519053",
+    "ITEM_NO": "X25907111",
+    "QTY": 500,
+    "UNIT_PRICE": 11.954,
+    "AMOUNT": 5982,
+    "% Confidence": 0.9253580729166666,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1252200078",
+    "ITEM_NO": "X25977262",
+    "QTY": 1705,
+    "UNIT_PRICE": 6.24,
+    "AMOUNT": 14049.2,
+    "% Confidence": 0.9263346354166666,
+    "filename": "1.YPC"
+  },
+  {
+    "INVOICE_NO": "S2308065",
+    "PO_NO": "1252801046",
+    "ITEM_NO": "X25977262",
+    "QTY": 295,
+    "UNIT_PRICE": 8.24,
+    "AMOUNT": 2430.8,
+    "% Confidence": 0.9923502604166666,
+    "filename": "1.YPC"
+  }
+]

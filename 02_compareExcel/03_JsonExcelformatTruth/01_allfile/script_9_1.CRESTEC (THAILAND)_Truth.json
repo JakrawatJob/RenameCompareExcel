@@ -1,0 +1,82 @@
+[
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253408001",
+    "ITEM_NO": "309952903",
+    "QTY": "4500",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "3568.50"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253408002",
+    "ITEM_NO": "309952903",
+    "QTY": "4500",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "3568.50"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253544001",
+    "ITEM_NO": "309952903",
+    "QTY": "500",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "396.50"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253776001",
+    "ITEM_NO": "309952903",
+    "QTY": "2500",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "1982.50"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253975001",
+    "ITEM_NO": "309952903",
+    "QTY": "2500",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "1982.50"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1253975002",
+    "ITEM_NO": "309952903",
+    "QTY": "2000",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "1586.00"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1254124001",
+    "ITEM_NO": "309952903",
+    "QTY": "500",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "396.50"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1254124002",
+    "ITEM_NO": "309952903",
+    "QTY": "500",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "396.50"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1254355001",
+    "ITEM_NO": "309952903",
+    "QTY": "1000",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "793.00"
+  },
+  {
+    "INVOICE_NO": "STTS23H0068",
+    "PO_NO": "1254355002",
+    "ITEM_NO": "309952903",
+    "QTY": "2500",
+    "UNIT_PRICE": "0.793",
+    "AMOUNT": "1982.50"
+  }
+]

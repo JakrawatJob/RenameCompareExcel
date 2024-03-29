@@ -1,0 +1,64 @@
+[
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "ITEM_NO": "73293602",
+    "QTY": 150,
+    "UNIT_PRICE": 4.07,
+    "AMOUNT": 610.5,
+    "% Confidence": 0.9918619791666666,
+    "filename": "1.YAMAGATA"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "QTY": 1000,
+    "UNIT_PRICE": 3.31,
+    "AMOUNT": 3310,
+    "% Confidence": 0.8272298177083334,
+    "filename": "1.YAMAGATA"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "ITEM_NO": "473293705",
+    "QTY": 1000,
+    "UNIT_PRICE": 3.31,
+    "AMOUNT": 3310,
+    "% Confidence": 0.9939778645833334,
+    "filename": "1.YAMAGATA"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "ITEM_NO": "473293705",
+    "QTY": 500,
+    "UNIT_PRICE": 3.31,
+    "AMOUNT": 1655,
+    "% Confidence": 0.9908854166666666,
+    "filename": "1.YAMAGATA"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "ITEM_NO": "473294003",
+    "QTY": 450,
+    "UNIT_PRICE": 3.31,
+    "AMOUNT": 1489.5,
+    "% Confidence": 0.9912923177083334,
+    "filename": "1.YAMAGATA"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "ITEM_NO": "473294003",
+    "QTY": 550,
+    "UNIT_PRICE": 3.31,
+    "AMOUNT": 1820.5,
+    "% Confidence": 0.9888509114583334,
+    "filename": "1.YAMAGATA"
+  },
+  {
+    "INVOICE_NO": "SIV23H0908",
+    "ITEM_NO": "474811402",
+    "QTY": 600,
+    "UNIT_PRICE": 3.31,
+    "AMOUNT": 1986,
+    "% Confidence": 0.9873860677083334,
+    "filename": "1.YAMAGATA"
+  }
+]

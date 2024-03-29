@@ -1,0 +1,52 @@
+[
+  {
+    "INVOICE_NO": "IV2308-1293",
+    "PO_NO": "1254526022",
+    "ITEM_NO": "503050901",
+    "QTY": 50,
+    "UNIT_PRICE": 22.39,
+    "AMOUNT": 1119.5,
+    "% Confidence": 0.9971516927083334,
+    "filename": "1.PANDA"
+  },
+  {
+    "INVOICE_NO": "IV2308-1293",
+    "PO_NO": "1254086001",
+    "ITEM_NO": "503151201",
+    "QTY": 180,
+    "UNIT_PRICE": 10.86,
+    "AMOUNT": 1954.8,
+    "% Confidence": 0.9947509765625,
+    "filename": "1.PANDA"
+  },
+  {
+    "INVOICE_NO": "IV2308-1293",
+    "PO_NO": "1254343015",
+    "ITEM_NO": "3837111",
+    "QTY": 20,
+    "UNIT_PRICE": 36.44,
+    "AMOUNT": 728.8,
+    "% Confidence": 0.9962972005208334,
+    "filename": "1.PANDA"
+  },
+  {
+    "INVOICE_NO": "IV2308-1293",
+    "PO_NO": "1254118002",
+    "ITEM_NO": "504253511",
+    "QTY": 90,
+    "UNIT_PRICE": 22,
+    "AMOUNT": 1980,
+    "% Confidence": 0.9965006510416666,
+    "filename": "1.PANDA"
+  },
+  {
+    "INVOICE_NO": "IV2308-1293",
+    "PO_NO": "1254526030",
+    "ITEM_NO": "505079121",
+    "QTY": 260,
+    "UNIT_PRICE": 23,
+    "AMOUNT": 5980,
+    "% Confidence": 0.9947102864583334,
+    "filename": "1.PANDA"
+  }
+]

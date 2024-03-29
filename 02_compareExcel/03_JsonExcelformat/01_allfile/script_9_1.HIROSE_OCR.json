@@ -1,0 +1,52 @@
+[
+  {
+    "INVOICE_NO": "HRS2023091301H",
+    "PO_NO": "1251939001",
+    "ITEM_NO": "100367211",
+    "QTY": 3740,
+    "UNIT_PRICE": 0.9095,
+    "AMOUNT": 3401.53,
+    "% Confidence": 0.9969889322916666,
+    "filename": "1.HIROSE"
+  },
+  {
+    "INVOICE_NO": "HRS2023091301H",
+    "PO_NO": "1251287004",
+    "ITEM_NO": "100625711",
+    "QTY": 25000,
+    "UNIT_PRICE": 0.0585,
+    "AMOUNT": 1462.5,
+    "% Confidence": 0.9973958333333334,
+    "filename": "1.HIROSE"
+  },
+  {
+    "INVOICE_NO": "HRS2023091301H",
+    "PO_NO": "1240268007",
+    "ITEM_NO": "184453011",
+    "QTY": 6000,
+    "UNIT_PRICE": 0.2207,
+    "AMOUNT": 1324.2,
+    "% Confidence": 0.9969889322916666,
+    "filename": "1.HIROSE"
+  },
+  {
+    "INVOICE_NO": "HRS2023091301H",
+    "PO_NO": "1240268006",
+    "ITEM_NO": "184453011",
+    "QTY": 24000,
+    "UNIT_PRICE": 0.1784,
+    "AMOUNT": 5296.8,
+    "% Confidence": 0.93154296875,
+    "filename": "1.HIROSE"
+  },
+  {
+    "INVOICE_NO": "HRS2023091301H",
+    "PO_NO": "1250164011",
+    "ITEM_NO": "184453111",
+    "QTY": 25000,
+    "UNIT_PRICE": 0.1784,
+    "AMOUNT": 4460,
+    "% Confidence": 0.9971516927083334,
+    "filename": "1.HIROSE"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "INVOICE_NO": "IVBOI66090207",
+    "PO_NO": "1255372003",
+    "ITEM_NO": "459620601",
+    "QTY": "1000",
+    "UNIT_PRICE": "0.08",
+    "AMOUNT": "80"
+  },
+  {
+    "INVOICE_NO": "IVBOI66090207",
+    "PO_NO": "1255958003",
+    "ITEM_NO": "503472601",
+    "QTY": "3000",
+    "UNIT_PRICE": "0.33",
+    "AMOUNT": "990"
+  },
+  {
+    "INVOICE_NO": "IVBOI66090207",
+    "PO_NO": "1254229067",
+    "ITEM_NO": "505307101",
+    "QTY": "650",
+    "UNIT_PRICE": "0.33",
+    "AMOUNT": "214"
+  },
+  {
+    "INVOICE_NO": "IVBOI66090207",
+    "PO_NO": "1256014023",
+    "ITEM_NO": "505307101",
+    "QTY": "2350",
+    "UNIT_PRICE": "0.33",
+    "AMOUNT": "775"
+  }
+]
