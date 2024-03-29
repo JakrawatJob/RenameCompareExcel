@@ -1,0 +1,24 @@
+[
+  {
+    "INVOICE_NO": "NDK2023081101H",
+    "PO_NO": "1248941001",
+    "ITEM_NO": "101230732",
+    "QTY": 480,
+    "UNIT_PRICE": 12.358,
+    "AMOUNT": 5931.84,
+    "filename": "16.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.9983723958333334
+  },
+  {
+    "INVOICE_NO": "NDK2023081101H",
+    "PO_NO": "1249503001",
+    "ITEM_NO": "101230732",
+    "QTY": 480,
+    "UNIT_PRICE": 12.358,
+    "AMOUNT": 5931.84,
+    "filename": "16.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.9976399739583334
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "PO_NO": "1255384-001",
+    "ITEM_NO": "458760001",
+    "QTY": 96000,
+    "UNIT_PRICE": 0.6775,
+    "AMOUNT": 65040,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1255969-003",
+    "ITEM_NO": "469354501",
+    "QTY": 4950,
+    "UNIT_PRICE": 1.9005,
+    "AMOUNT": 9555.98,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1256572-002",
+    "ITEM_NO": "469354501",
+    "QTY": 3300,
+    "UNIT_PRICE": 1.9305,
+    "AMOUNT": 6370.65,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1256304-002",
+    "ITEM_NO": "500390101",
+    "QTY": 10000,
+    "UNIT_PRICE": 1.4323,
+    "AMOUNT": 14023,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1255747-002",
+    "ITEM_NO": "00463201",
+    "QTY": 4000,
+    "UNIT_PRICE": 1.1293,
+    "AMOUNT": 4517.2,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1256971-002",
+    "ITEM_NO": "500463201",
+    "QTY": 1000,
+    "UNIT_PRICE": 1.1293,
+    "AMOUNT": 1129.3,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1255747-004",
+    "ITEM_NO": "01695501",
+    "QTY": 9000,
+    "UNIT_PRICE": 5.1621,
+    "AMOUNT": 46458.9,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1255747-005",
+    "ITEM_NO": "71301",
+    "QTY": 6000,
+    "UNIT_PRICE": 1.3487,
+    "AMOUNT": 8092.2,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1256334-005",
+    "ITEM_NO": "501771301",
+    "QTY": 3000,
+    "UNIT_PRICE": 1.3487,
+    "AMOUNT": 4046.1,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1255136-008",
+    "ITEM_NO": "502687801",
+    "QTY": 3000,
+    "UNIT_PRICE": 1.8146,
+    "AMOUNT": 5440.8,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1255747-007",
+    "ITEM_NO": "502687801",
+    "QTY": 15000,
+    "UNIT_PRICE": 1.8146,
+    "AMOUNT": 27219,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1255969-005",
+    "ITEM_NO": "503502001",
+    "QTY": 93000,
+    "UNIT_PRICE": 0.6775,
+    "AMOUNT": 60007.5,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1256572-003",
+    "ITEM_NO": "503502001",
+    "QTY": 84000,
+    "UNIT_PRICE": 0.6775,
+    "AMOUNT": 56910,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1256763-001",
+    "ITEM_NO": "503792801",
+    "QTY": 1,
+    "UNIT_PRICE": 3.6544,
+    "AMOUNT": 3654.4,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  },
+  {
+    "PO_NO": "1255747-008",
+    "ITEM_NO": "5046",
+    "QTY": 6000,
+    "UNIT_PRICE": 0.7973,
+    "AMOUNT": 783.8,
+    "filename": "24.ALPH PRECISION UDON.pdf",
+    "location": "STA"
+  }
+]

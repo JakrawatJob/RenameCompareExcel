@@ -1,0 +1,90 @@
+[
+  {
+    "INVOICE_NO": "THG231000248",
+    "PO_NO": "1248847001",
+    "ITEM_NO": "100169311",
+    "QTY": 3600,
+    "UNIT_PRICE": 10.5566,
+    "AMOUNT": 38003.76,
+    "filename": "25.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9931640625
+  },
+  {
+    "INVOICE_NO": "THG231000248",
+    "PO_NO": "1250309002",
+    "ITEM_NO": "122786331",
+    "QTY": 2100,
+    "UNIT_PRICE": 20.1724,
+    "AMOUNT": 42362.04,
+    "filename": "25.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.99169921875
+  },
+  {
+    "INVOICE_NO": "THG231000248",
+    "PO_NO": "1247601001",
+    "ITEM_NO": "122786341",
+    "QTY": 2100,
+    "UNIT_PRICE": 19.0171,
+    "AMOUNT": 39935.91,
+    "filename": "25.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9922688802083334
+  },
+  {
+    "INVOICE_NO": "THG231000248",
+    "PO_NO": "9093432010",
+    "ITEM_NO": "148711811",
+    "QTY": 60000,
+    "UNIT_PRICE": 4.7041,
+    "AMOUNT": 282246,
+    "filename": "25.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9930013020833334
+  },
+  {
+    "INVOICE_NO": "THG231000248",
+    "PO_NO": "9093443005",
+    "ITEM_NO": "148711821",
+    "QTY": 30000,
+    "UNIT_PRICE": 4.7041,
+    "AMOUNT": 141123,
+    "filename": "25.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9940185546875
+  },
+  {
+    "INVOICE_NO": "THG231000248",
+    "PO_NO": "1250505008",
+    "ITEM_NO": "178691441",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.5085,
+    "AMOUNT": 10170,
+    "filename": "25.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9939778645833334
+  },
+  {
+    "INVOICE_NO": "THG231000248",
+    "PO_NO": "1251068009",
+    "ITEM_NO": "178691441",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.5085,
+    "AMOUNT": 10170,
+    "filename": "25.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.994873046875
+  },
+  {
+    "INVOICE_NO": "THG231000248",
+    "PO_NO": "1254710008",
+    "ITEM_NO": "179813631",
+    "QTY": 10,
+    "UNIT_PRICE": 2.1791,
+    "AMOUNT": 21791,
+    "filename": "25.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9287760416666666
+  }
+]

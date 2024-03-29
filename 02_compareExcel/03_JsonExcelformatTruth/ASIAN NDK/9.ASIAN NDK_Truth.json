@@ -1,0 +1,162 @@
+[
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365002",
+    "ITEM_NO": "181430411",
+    "QTY": "45000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3312"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365011",
+    "ITEM_NO": "181430411",
+    "QTY": "45000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3312"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365014",
+    "ITEM_NO": "181430411",
+    "QTY": "54000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3974.4"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365016",
+    "ITEM_NO": "181430411",
+    "QTY": "54000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3974.4"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365019",
+    "ITEM_NO": "181430411",
+    "QTY": "45000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3312"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365064",
+    "ITEM_NO": "181430411",
+    "QTY": "54000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3974.4"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365066",
+    "ITEM_NO": "181430411",
+    "QTY": "15000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "1104"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365067",
+    "ITEM_NO": "181430411",
+    "QTY": "45000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3312"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365089",
+    "ITEM_NO": "181430411",
+    "QTY": "15000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "1104"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365102",
+    "ITEM_NO": "181430411",
+    "QTY": "45000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3312"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365103",
+    "ITEM_NO": "181430411",
+    "QTY": "12000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "883.2"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365104",
+    "ITEM_NO": "181430411",
+    "QTY": "12000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "883.2"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365111",
+    "ITEM_NO": "181430411",
+    "QTY": "15000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "1104"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365112",
+    "ITEM_NO": "181430411",
+    "QTY": "15000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "1104"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365164",
+    "ITEM_NO": "181430411",
+    "QTY": "54000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "3974.4"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365172",
+    "ITEM_NO": "181430411",
+    "QTY": "15000",
+    "UNIT_PRICE": "0.0736",
+    "AMOUNT": "1104"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365154",
+    "ITEM_NO": "181494711",
+    "QTY": "12000",
+    "UNIT_PRICE": "0.65",
+    "AMOUNT": "7800"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085365156",
+    "ITEM_NO": "181494711",
+    "QTY": "12000",
+    "UNIT_PRICE": "0.65",
+    "AMOUNT": "7800"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085878004",
+    "ITEM_NO": "181494711",
+    "QTY": "3000",
+    "UNIT_PRICE": "0.65",
+    "AMOUNT": "1950"
+  },
+  {
+    "INVOICE_NO": "NDK2023090401H",
+    "PO_NO": "9085878005",
+    "ITEM_NO": "181494711",
+    "QTY": "3000",
+    "UNIT_PRICE": "0.65",
+    "AMOUNT": "1950"
+  }
+]

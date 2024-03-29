@@ -1,0 +1,13 @@
+[
+  {
+    "INVOICE_NO": "THG230801037",
+    "PO_NO": "1245574002",
+    "ITEM_NO": "149323211",
+    "QTY": 2850,
+    "UNIT_PRICE": 26.9244,
+    "AMOUNT": 76734.54,
+    "filename": "8.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.99609375
+  }
+]

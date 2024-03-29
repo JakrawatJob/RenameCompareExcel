@@ -1,0 +1,24 @@
+[
+  {
+    "INVOICE_NO": "DV2308-0264",
+    "PO_NO": "1253120002",
+    "ITEM_NO": "501841431",
+    "QTY": 1000,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 21740,
+    "filename": "14.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.995849609375
+  },
+  {
+    "INVOICE_NO": "DV2308-0264",
+    "PO_NO": "1253687002",
+    "ITEM_NO": "501841441",
+    "QTY": 1000,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 21740,
+    "filename": "14.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9965006510416666
+  }
+]

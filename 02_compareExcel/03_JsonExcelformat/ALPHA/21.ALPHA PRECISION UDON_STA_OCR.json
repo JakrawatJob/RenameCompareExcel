@@ -1,0 +1,155 @@
+[
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251054-001",
+    "ITEM_NO": "435922801",
+    "QTY": 8000,
+    "UNIT_PRICE": 0.7924,
+    "AMOUNT": 6339.2,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9964192708333334
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251266-002",
+    "ITEM_NO": "458760001",
+    "QTY": 99000,
+    "UNIT_PRICE": 0.6775,
+    "AMOUNT": 67072.5,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9966634114583334
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251819-001",
+    "ITEM_NO": "8760001",
+    "QTY": 45000,
+    "UNIT_PRICE": 0.6775,
+    "AMOUNT": 30487,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9299153645833332
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1252418-002",
+    "QTY": 2640,
+    "UNIT_PRICE": 1.9305,
+    "AMOUNT": 5096.52,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.8318684895833334
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1253021-003",
+    "ITEM_NO": "469354501",
+    "QTY": 2310,
+    "UNIT_PRICE": 1.9305,
+    "AMOUNT": 4459.46,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.995361328125
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251054-003",
+    "ITEM_NO": "500390101",
+    "QTY": 1000,
+    "UNIT_PRICE": 1,
+    "AMOUNT": 1432.3,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9304036458333332
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1248212-002",
+    "ITEM_NO": "00463201",
+    "QTY": 2000,
+    "UNIT_PRICE": 1.1293,
+    "AMOUNT": 2258.6,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9951985677083334
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251054-005",
+    "ITEM_NO": "501771301",
+    "QTY": 3000,
+    "UNIT_PRICE": 1.3487,
+    "AMOUNT": 4046.1,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9954427083333334
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1281054-006",
+    "ITEM_NO": "01775701",
+    "QTY": 3000,
+    "UNIT_PRICE": 1.2601,
+    "AMOUNT": 3780.3,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.995849609375
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251638-002",
+    "ITEM_NO": "501775701",
+    "QTY": 3000,
+    "UNIT_PRICE": 1.2601,
+    "AMOUNT": 3780.3,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9961751302083334
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251266-006",
+    "ITEM_NO": "503502001",
+    "QTY": 24000,
+    "UNIT_PRICE": 0.6775,
+    "AMOUNT": 16260,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.99609375
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251819-002",
+    "ITEM_NO": "503502001",
+    "QTY": 34000,
+    "UNIT_PRICE": 0.6775,
+    "AMOUNT": 36585,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9296712239583332
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1252602-001",
+    "ITEM_NO": "503792801",
+    "QTY": 1000,
+    "UNIT_PRICE": 3.6544,
+    "AMOUNT": 3654.4,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9957682291666666
+  },
+  {
+    "INVOICE_NO": "IV2308004",
+    "PO_NO": "1251638-003",
+    "ITEM_NO": "504650701",
+    "QTY": 3000,
+    "UNIT_PRICE": 0.7973,
+    "AMOUNT": 2391.9,
+    "filename": "21.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9956868489583334
+  }
+]

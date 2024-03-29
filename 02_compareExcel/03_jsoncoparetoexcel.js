@@ -126,11 +126,16 @@ rl.question("Please enter the folder name: ", (folderName) => {
       //const extractedData = filename.split("_")[0];
       let isPresent = false;
       if (filename) {
+        const regex = /_STA|_STBIWH|_STBOWH|_STC/;
+        const newFilename = filename.replace(regex, "");
         console.log(
-          filename.replace("_OCR", ""),
+          newFilename.replace("_OCR", ""),
           fileTruth.replace("_Truth", "")
         );
-        if (filename.replace("_OCR", "") != fileTruth.replace("_Truth", "")) {
+
+        if (
+          newFilename.replace("_OCR", "") != fileTruth.replace("_Truth", "")
+        ) {
           isPresent = false;
         } else {
           isPresent = true;

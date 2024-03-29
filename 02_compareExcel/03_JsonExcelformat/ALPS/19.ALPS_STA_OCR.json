@@ -1,0 +1,200 @@
+[
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1246316001",
+    "ITEM_NO": "100169311",
+    "QTY": 3600,
+    "UNIT_PRICE": 10.2974,
+    "AMOUNT": 37070.64,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9933675130208334
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1245982002",
+    "ITEM_NO": "122786341",
+    "QTY": 2100,
+    "UNIT_PRICE": 18.5502,
+    "AMOUNT": 38955.42,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.993896484375
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "9093432008",
+    "ITEM_NO": "148711811",
+    "QTY": 60,
+    "UNIT_PRICE": 4.5886,
+    "AMOUNT": 275316,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.928369140625
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "9093443027",
+    "ITEM_NO": "148711821",
+    "QTY": 30000,
+    "UNIT_PRICE": 4.5886,
+    "AMOUNT": 137658,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9945475260416666
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1247771002",
+    "ITEM_NO": "149323211",
+    "QTY": 950,
+    "UNIT_PRICE": 26.9244,
+    "AMOUNT": 25578.18,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9949544270833334
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1247771003",
+    "ITEM_NO": "149323211",
+    "QTY": 6650,
+    "UNIT_PRICE": 26.9244,
+    "AMOUNT": 179.047,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9289388020833332
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1251068003",
+    "ITEM_NO": "177124621",
+    "QTY": 1800,
+    "UNIT_PRICE": 3.8126,
+    "AMOUNT": 6862.68,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9956868489583334
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1251652003",
+    "ITEM_NO": "177124621",
+    "QTY": 1800,
+    "UNIT_PRICE": 3.8126,
+    "AMOUNT": 6862.68,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.995849609375
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1245574011",
+    "ITEM_NO": "178670721",
+    "QTY": 20,
+    "UNIT_PRICE": 2.571,
+    "AMOUNT": 51420,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9260091145833332
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1246170005",
+    "ITEM_NO": "178670721",
+    "QTY": 5000,
+    "UNIT_PRICE": 2.571,
+    "AMOUNT": 12855,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9940999348958334
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1247771005",
+    "ITEM_NO": "178691441",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.496,
+    "AMOUNT": 4960,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9916178385416666
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1247771006",
+    "ITEM_NO": "178691441",
+    "QTY": 10000,
+    "UNIT_PRICE": 0.496,
+    "AMOUNT": 4960,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9940592447916666
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1245574017",
+    "ITEM_NO": "178691451",
+    "QTY": 120,
+    "UNIT_PRICE": 0.5668,
+    "AMOUNT": 68016,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.929345703125
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1245702004",
+    "ITEM_NO": "178691451",
+    "QTY": 20000,
+    "UNIT_PRICE": 0.5668,
+    "AMOUNT": 11336,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9950358072916666
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1245574019",
+    "ITEM_NO": "179813631",
+    "QTY": 30,
+    "UNIT_PRICE": 2.1256,
+    "AMOUNT": 63768,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9284505208333332
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1245574022",
+    "ITEM_NO": "179842011",
+    "QTY": 12,
+    "UNIT_PRICE": 3.1446,
+    "AMOUNT": 37735.2,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9291829427083332
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1248399004",
+    "ITEM_NO": "179842011",
+    "QTY": 4000,
+    "UNIT_PRICE": 3.1446,
+    "AMOUNT": 12578.4,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9939778645833334
+  },
+  {
+    "INVOICE_NO": "THG230901068",
+    "PO_NO": "1248399003",
+    "ITEM_NO": "179842011",
+    "QTY": 4,
+    "UNIT_PRICE": 3.1446,
+    "AMOUNT": 12578.4,
+    "filename": "19.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9294677734375
+  }
+]

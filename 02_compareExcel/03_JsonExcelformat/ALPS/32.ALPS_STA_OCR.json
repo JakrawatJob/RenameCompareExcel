@@ -1,0 +1,35 @@
+[
+  {
+    "INVOICE_NO": "THG231000776",
+    "PO_NO": "1249005001",
+    "ITEM_NO": "169260551",
+    "QTY": 9000,
+    "UNIT_PRICE": 1.937,
+    "AMOUNT": 17433,
+    "filename": "32.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9930826822916666
+  },
+  {
+    "INVOICE_NO": "THG231000776",
+    "PO_NO": "1249562001",
+    "ITEM_NO": "169260551",
+    "QTY": 4500,
+    "UNIT_PRICE": 1.937,
+    "AMOUNT": 8716.5,
+    "filename": "32.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9937337239583334
+  },
+  {
+    "INVOICE_NO": "THG231000776",
+    "PO_NO": "1254710006",
+    "ITEM_NO": "177173121",
+    "QTY": 4500,
+    "UNIT_PRICE": 3.3967,
+    "AMOUNT": 15285.15,
+    "filename": "32.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9971516927083334
+  }
+]

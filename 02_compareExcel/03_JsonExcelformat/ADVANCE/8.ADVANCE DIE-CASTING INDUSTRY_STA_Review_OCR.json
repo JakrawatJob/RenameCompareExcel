@@ -1,0 +1,68 @@
+[
+  {
+    "INVOICE_NO": "DIV2308-0112",
+    "PO_NO": "01250785004",
+    "ITEM_NO": "501485202",
+    "QTY": 78,
+    "UNIT_PRICE": 367.17,
+    "AMOUNT": 28639.26,
+    "filename": "8.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STA",
+    "% Confidence": 0.9970703125
+  },
+  {
+    "INVOICE_NO": "DIV2308-0112",
+    "PO_NO": "01250785006",
+    "ITEM_NO": "501841431",
+    "QTY": 175,
+    "UNIT_PRICE": 473.24,
+    "AMOUNT": 3804.5,
+    "filename": "8.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STA",
+    "% Confidence": 0.9299967447916666
+  },
+  {
+    "INVOICE_NO": "DIV2308-0112",
+    "PO_NO": "01251912001",
+    "ITEM_NO": "501485102",
+    "QTY": 152,
+    "UNIT_PRICE": 473.24,
+    "AMOUNT": 71932.48,
+    "filename": "8.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STA",
+    "% Confidence": 0.996826171875
+  },
+  {
+    "INVOICE_NO": "DIV2308-0112",
+    "PO_NO": "01251912002",
+    "ITEM_NO": "501485202",
+    "QTY": 27,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 9913.59,
+    "filename": "8.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STA",
+    "% Confidence": 0.9312174479166666
+  },
+  {
+    "INVOICE_NO": "DIV2308-0112",
+    "PO_NO": "01252510001",
+    "ITEM_NO": "501841431",
+    "QTY": 825,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 17935.5,
+    "filename": "8.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STA",
+    "% Confidence": 0.9967447916666666
+  },
+  {
+    "INVOICE_NO": "DIV2308-0112",
+    "PO_NO": "01254853003",
+    "ITEM_NO": "501841401",
+    "QTY": 1000,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 21740,
+    "filename": "8.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STA",
+    "% Confidence": 0.997314453125
+  }
+]

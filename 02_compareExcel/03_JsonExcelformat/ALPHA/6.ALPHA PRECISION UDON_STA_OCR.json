@@ -1,0 +1,24 @@
+[
+  {
+    "INVOICE_NO": "IV2306052",
+    "PO_NO": "1247756-007",
+    "ITEM_NO": "504650801",
+    "QTY": 3000,
+    "UNIT_PRICE": 0.9515,
+    "AMOUNT": 2854.5,
+    "filename": "6.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9891276041666667
+  },
+  {
+    "INVOICE_NO": "IV2306052",
+    "PO_NO": "1248212-009",
+    "ITEM_NO": "505178501",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.9967,
+    "AMOUNT": 1990.4,
+    "filename": "6.ALPHA PRECISION UDON.pdf",
+    "location": "STA",
+    "% Confidence": 0.9286946614583332
+  }
+]

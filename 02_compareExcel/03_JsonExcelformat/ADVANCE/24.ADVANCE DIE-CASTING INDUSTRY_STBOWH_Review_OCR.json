@@ -1,0 +1,79 @@
+[
+  {
+    "INVOICE_NO": "DV2308-0333",
+    "PO_NO": "1252565001",
+    "ITEM_NO": "502241002",
+    "QTY": 180,
+    "UNIT_PRICE": 205.24,
+    "AMOUNT": 36943.2,
+    "filename": "24.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9953206380208334
+  },
+  {
+    "INVOICE_NO": "DV2308-0333",
+    "PO_NO": "125368700",
+    "ITEM_NO": "501841431",
+    "QTY": 1000,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 21740,
+    "filename": "24.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9937744140625
+  },
+  {
+    "INVOICE_NO": "DV2308-0333",
+    "PO_NO": "1253687002",
+    "ITEM_NO": "501841441",
+    "QTY": 700,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 15218,
+    "filename": "24.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9948323567708334
+  },
+  {
+    "INVOICE_NO": "DV2308-0333",
+    "PO_NO": "1253735002",
+    "ITEM_NO": "502335511",
+    "QTY": 120,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 21442.8,
+    "filename": "24.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9292643229166666
+  },
+  {
+    "INVOICE_NO": "DV2308-0333",
+    "PO_NO": "1254269003",
+    "ITEM_NO": "501841481",
+    "QTY": 1000,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 21740,
+    "filename": "24.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9959716796875
+  },
+  {
+    "INVOICE_NO": "DV2308-0333",
+    "PO_NO": "01254853007",
+    "ITEM_NO": "501841441",
+    "QTY": 300,
+    "UNIT_PRICE": 21.74,
+    "AMOUNT": 6522,
+    "filename": "24.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9956461588541666
+  },
+  {
+    "INVOICE_NO": "DV2308-0333",
+    "PO_NO": "01254899001",
+    "ITEM_NO": "502335502",
+    "QTY": 10,
+    "UNIT_PRICE": 203.59,
+    "AMOUNT": 2035.9,
+    "filename": "24.ADVANCE DIE-CASTING INDUSTRY.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9932454427083334
+  }
+]

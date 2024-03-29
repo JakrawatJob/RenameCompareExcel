@@ -1,0 +1,46 @@
+[
+  {
+    "INVOICE_NO": "IT23009120",
+    "PO_NO": "1257783001",
+    "ITEM_NO": "457178402",
+    "QTY": 2000,
+    "UNIT_PRICE": 0.099,
+    "AMOUNT": 198,
+    "filename": "26.ASIAN INOAC.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9977891710069443
+  },
+  {
+    "INVOICE_NO": "IT23009120",
+    "PO_NO": "1257816002",
+    "ITEM_NO": "429312701",
+    "QTY": 18750,
+    "UNIT_PRICE": 0.604,
+    "AMOUNT": 11325,
+    "filename": "26.ASIAN INOAC.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9970160590277777
+  },
+  {
+    "INVOICE_NO": "IT23009120",
+    "PO_NO": "1257816015",
+    "ITEM_NO": "473906002",
+    "QTY": 28000,
+    "UNIT_PRICE": 0.624,
+    "AMOUNT": 17472,
+    "filename": "26.ASIAN INOAC.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9973687065972223
+  },
+  {
+    "INVOICE_NO": "IT23009120",
+    "PO_NO": "P",
+    "ITEM_NO": "500642702",
+    "QTY": 21000,
+    "UNIT_PRICE": 0.505,
+    "AMOUNT": 10605,
+    "filename": "26.ASIAN INOAC.pdf",
+    "location": "STBOWH",
+    "% Confidence": 0.9975992838541666
+  }
+]

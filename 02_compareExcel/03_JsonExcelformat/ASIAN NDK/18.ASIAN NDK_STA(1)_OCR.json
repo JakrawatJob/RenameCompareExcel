@@ -1,0 +1,57 @@
+[
+  {
+    "INVOICE_NO": "NDK2023081601H",
+    "PO_NO": "1249503003",
+    "ITEM_NO": "101230732",
+    "QTY": 480,
+    "UNIT_PRICE": 12.358,
+    "AMOUNT": 5931.84,
+    "filename": "18.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.9976399739583334
+  },
+  {
+    "INVOICE_NO": "NDK2023081601H",
+    "PO_NO": "1249503002",
+    "ITEM_NO": "101230732",
+    "QTY": 1920,
+    "UNIT_PRICE": 12.358,
+    "AMOUNT": 23727.36,
+    "filename": "18.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.9967447916666666
+  },
+  {
+    "INVOICE_NO": "NDK2023081601H",
+    "PO_NO": "1252302001",
+    "ITEM_NO": "101230732",
+    "QTY": 960,
+    "UNIT_PRICE": 12.358,
+    "AMOUNT": 11863.68,
+    "filename": "18.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.9972330729166666
+  },
+  {
+    "INVOICE_NO": "NDK2023081601H",
+    "PO_NO": "1248368004",
+    "ITEM_NO": "185667134",
+    "QTY": 960,
+    "UNIT_PRICE": 13.707,
+    "AMOUNT": 13158.72,
+    "filename": "18.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.9974772135416666
+  },
+  {
+    "INVOICE_NO": "NDK2023081601H",
+    "PO_NO": "1246249007",
+    "ITEM_NO": "185670234",
+    "QTY": 480,
+    "UNIT_PRICE": 11.273,
+    "AMOUNT": 5411.04,
+    "filename": "18.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.9971516927083334
+  }
+]

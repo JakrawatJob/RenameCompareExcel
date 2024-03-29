@@ -1,0 +1,24 @@
+[
+  {
+    "INVOICE_NO": "THG231001644",
+    "PO_NO": "9093443016",
+    "ITEM_NO": "148711821",
+    "QTY": 30,
+    "UNIT_PRICE": 4.7041,
+    "AMOUNT": 141123,
+    "filename": "22.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.927392578125
+  },
+  {
+    "INVOICE_NO": "THG231001644",
+    "PO_NO": "9093469008",
+    "ITEM_NO": "148711831",
+    "QTY": 60000,
+    "UNIT_PRICE": 4.7041,
+    "AMOUNT": 282246,
+    "filename": "22.ALPS.pdf",
+    "location": "STA",
+    "% Confidence": 0.9933268229166666
+  }
+]

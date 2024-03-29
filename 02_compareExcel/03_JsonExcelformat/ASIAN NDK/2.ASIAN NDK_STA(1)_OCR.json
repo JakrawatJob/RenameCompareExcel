@@ -1,0 +1,18 @@
+[
+  {
+    "INVOICE_NO": "NDK2023081602H",
+    "UNIT_PRICE": 3,
+    "AMOUNT": 662.4,
+    "filename": "2.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.598046875
+  },
+  {
+    "INVOICE_NO": "NDK2023081602H",
+    "QTY": 15000,
+    "AMOUNT": 1303.2,
+    "filename": "2.ASIAN NDK.pdf",
+    "location": "STA",
+    "% Confidence": 0.598046875
+  }
+]
